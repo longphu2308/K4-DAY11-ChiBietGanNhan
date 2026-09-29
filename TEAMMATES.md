@@ -10,7 +10,7 @@
 - Tên định danh vai A dùng cho --self: tho
 - Kênh trao đổi nội bộ: Discord
 - Đại diện nộp (vai C): Trần Long Phú - 2A202602313
-- Commit chốt bài: [Cập nhật sau commit chốt]
+- Commit chốt bài: bcaf04a
 
 ## 2. Ba vai chính
 
