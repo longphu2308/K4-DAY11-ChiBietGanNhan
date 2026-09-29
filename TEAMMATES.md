@@ -6,8 +6,8 @@
 - Tên nhóm: ChiBietGanNhan
 - Repo Public: https://github.com/longphu2308/K4-DAY11-ChiBietGanNhan
 - Máy giữ hồ sơ chính / người quản lý: Trần Long Phú
-- Slice chung lấy từ mode.json: [Điền]
-- Tên định danh vai A dùng cho --self: [Điền]
+- Slice chung lấy từ mode.json: B2-dense
+- Tên định danh vai A dùng cho --self: B2-dense
 - Kênh trao đổi nội bộ: Discord
 - Đại diện nộp (vai C): Trần Long Phú - 2A202602313
 - Commit chốt bài: [SHA hoặc URL commit]
@@ -16,9 +16,9 @@
 
 | Vai | Họ và tên | MSSV | Tên định danh trong mode | Trách nhiệm | Bằng chứng đóng góp |
 |---|---|---|---|---|---|
-| A · Gán nhãn | Trần Đức Thọ | 2A202602324 | [Điền] | Parking/C0/slice, self-QC, lock, rework | [Link file/commit và mô tả phần đã làm] |
-| B · QA độc lập | Nguyễn Văn Trọng | 2A202602276 | [Điền] | Review trước reference, finding QA, kiểm lại ca sửa | [Link file/commit và mô tả phần đã làm] |
-| C · Chẩn đoán & điều phối | Trần Long Phú | 2A202602313 | [Điền] | Báo cáo, phân xử, kế hoạch, tích hợp, check và nộp | [Link file/commit và mô tả phần đã làm] |
+| A · Gán nhãn | Trần Đức Thọ | 2A202602324 | B2-dense | Parking/C0/slice, self-QC, lock, rework | [Link file/commit và mô tả phần đã làm] |
+| B · QA độc lập | Nguyễn Văn Trọng | 2A202602276 | B3-edge | Review trước reference, finding QA, kiểm lại ca sửa | [Link file/commit và mô tả phần đã làm] |
+| C · Chẩn đoán & điều phối | Trần Long Phú | 2A202602313 | B2-mid | Báo cáo, phân xử, kế hoạch, tích hợp, check và nộp | [Link file/commit và mô tả phần đã làm] |
 
 Bảng này xác định vai của nhóm. Vòng QA tự sinh trong team.json thuộc quy trình nhiều hồ sơ của CLI; nhóm dùng một slice chung và quy trình A → B → C đã nêu trong hướng dẫn.
 

@@ -1,0 +1,15 @@
+{
+  "members": [
+    "phu",
+    "tho",
+    "trong"
+  ],
+  "assignments": {
+    "phu": "B2-mid",
+    "tho": "B2-dense",
+    "trong": "B3-edge"
+  },
+  "self": "tho",
+  "slice": "B2-dense",
+  "degrade": []
+}

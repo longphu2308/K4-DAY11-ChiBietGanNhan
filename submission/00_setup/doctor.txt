@@ -1,0 +1,4 @@
+✓ Python 3.12
+✓ CVAT 2.74.1
+✓ Git không track .env
+! Chưa có gh; tự kiểm tra repo bài nộp là PUBLIC trên GitHub
