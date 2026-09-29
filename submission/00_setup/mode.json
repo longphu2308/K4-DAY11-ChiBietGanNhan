@@ -11,5 +11,17 @@
   },
   "self": "tho",
   "slice": "B2-dense",
-  "degrade": []
+  "degrade": [
+    "k12"
+  ],
+  "current_slice": "B2-dense",
+  "support_prefill": false,
+  "support_slice": "",
+  "prefill_box_ids": [
+    "adasind_062370.jpg:1",
+    "adasind_062370.jpg:2",
+    "adasind_062370.jpg:3",
+    "adasind_062370.jpg:4",
+    "adasind_062370.jpg:5"
+  ]
 }

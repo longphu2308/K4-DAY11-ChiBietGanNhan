@@ -1,0 +1,9 @@
+round: calib
+slice: C0
+sha256: da1fba15ec3ca0b5bd1cf4a8427d51e73190d3f22adc60a4f0bf1331b07bad77
+code: DA1F-BA15
+locked_at: 2026-09-29T11:19:04+07:00
+shapes: polygon=2
+prefill_kept: 0
+prefill_edited: 0
+new: 0

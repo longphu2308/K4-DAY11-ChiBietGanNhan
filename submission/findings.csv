@@ -1,1 +1,7 @@
 round,slice,frame,object_ref,cell,what,why,severity,owner,rule_id,evidence,action,rules_version,note
+calib,C0,adasind_019560.jpg,R1,na,MISSING,E1_annotator_error,P1,annotator,R03,"adasind_019560.jpg: (595,739,730,911) nguoi ao vang canh xe dap",rework,v1.0.0,Rider R03 tren xe hai banh gop thanh Bike duy nhat
+calib,C0,adasind_019560.jpg,R2,na,MISSING,E1_annotator_error,P1,annotator,R03,"adasind_019560.jpg: (427,736,535,910) xe may nguoi ao do tren duong",rework,v1.0.0,Xe may giua long duong H>170px thoa man R01 va R03
+calib,C0,adasind_019560.jpg,R3,na,MISSING,E1_annotator_error,P1,annotator,R04,"adasind_019560.jpg: (39,773,99,850) auto-rickshaw vang mep trai",rework,v1.0.0,ThreeWheeler R04 o edge zone H=77px >= 40px R01
+calib,C0,adasind_019560.jpg,R4,na,MISSING,,,,,,,,
+calib,C0,adasind_019560.jpg,R5,na,MISSING,,,,,,,,
+calib,C0,adasind_019560.jpg,R6,na,MISSING,,,,,,,,
