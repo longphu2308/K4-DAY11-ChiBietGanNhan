@@ -105,7 +105,7 @@
   "aggregate": {
     "accuracy": {
       "micro": 0.6923076923076923,
-      "macro": 0.9487179487179489,
+      "macro": 0.9487179487179488,
       "worst_label": 0.8846153846153846
     },
     "precision": {
@@ -296,6 +296,6 @@
     "adasind_117120.jpg"
   ],
   "frames_missing_from_export": [],
-  "locked_sha256": "65ffeb98e6eae239c2474943c4d98567ef8f6d3f2d6ee75235f100a17aba016b",
+  "locked_sha256": "c55300606948792229f880245fbd076d33c93e54bd0ff855f7a7adf8202322f2",
   "iou_threshold": 0.5
 }

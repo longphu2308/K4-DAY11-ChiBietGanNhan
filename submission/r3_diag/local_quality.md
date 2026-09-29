@@ -1,7 +1,7 @@
 # Đối chiếu chất lượng cục bộ — rectangle
 
 Teaching reference, không phải gold set đã phê duyệt; không có điểm đạt tự động.
-Nguồn: export r1_craft đã khóa SHA256 `65ffeb98e6eae239c2474943c4d98567ef8f6d3f2d6ee75235f100a17aba016b`; slice `B2-dense`.
+Nguồn: export r1_craft đã khóa SHA256 `c55300606948792229f880245fbd076d33c93e54bd0ff855f7a7adf8202322f2`; slice `B2-dense`.
 Ghép hình học greedy một-một theo IoU ≥ 0.50, rồi so class; H ≥ 40 px.
 Box trái nằm chủ yếu trong ignore_region reference không tính. Polygon, polyline, track không được chấm.
 Đây là phép tính offline của lab, không phải báo cáo hay kết quả tương đương CVAT Premium.
