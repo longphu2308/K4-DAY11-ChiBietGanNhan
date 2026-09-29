@@ -1,0 +1,244 @@
+[
+ {
+  "name": "Bus",
+  "type": "any",
+  "color": "#ff8c00",
+  "attributes": [
+   {
+    "name": "occluded",
+    "mutable": false,
+    "input_type": "checkbox",
+    "default_value": "false",
+    "values": [
+     "false",
+     "true"
+    ]
+   },
+   {
+    "name": "truncated",
+    "mutable": false,
+    "input_type": "checkbox",
+    "default_value": "false",
+    "values": [
+     "false",
+     "true"
+    ]
+   },
+   {
+    "name": "edge_zone",
+    "mutable": false,
+    "input_type": "checkbox",
+    "default_value": "false",
+    "values": [
+     "false",
+     "true"
+    ]
+   }
+  ]
+ },
+ {
+  "name": "Bike",
+  "type": "any",
+  "color": "#00d0ff",
+  "attributes": [
+   {
+    "name": "occluded",
+    "mutable": false,
+    "input_type": "checkbox",
+    "default_value": "false",
+    "values": [
+     "false",
+     "true"
+    ]
+   },
+   {
+    "name": "truncated",
+    "mutable": false,
+    "input_type": "checkbox",
+    "default_value": "false",
+    "values": [
+     "false",
+     "true"
+    ]
+   },
+   {
+    "name": "edge_zone",
+    "mutable": false,
+    "input_type": "checkbox",
+    "default_value": "false",
+    "values": [
+     "false",
+     "true"
+    ]
+   }
+  ]
+ },
+ {
+  "name": "Car",
+  "type": "any",
+  "color": "#7cff00",
+  "attributes": [
+   {
+    "name": "occluded",
+    "mutable": false,
+    "input_type": "checkbox",
+    "default_value": "false",
+    "values": [
+     "false",
+     "true"
+    ]
+   },
+   {
+    "name": "truncated",
+    "mutable": false,
+    "input_type": "checkbox",
+    "default_value": "false",
+    "values": [
+     "false",
+     "true"
+    ]
+   },
+   {
+    "name": "edge_zone",
+    "mutable": false,
+    "input_type": "checkbox",
+    "default_value": "false",
+    "values": [
+     "false",
+     "true"
+    ]
+   }
+  ]
+ },
+ {
+  "name": "Pedestrian",
+  "type": "any",
+  "color": "#ff3b30",
+  "attributes": [
+   {
+    "name": "occluded",
+    "mutable": false,
+    "input_type": "checkbox",
+    "default_value": "false",
+    "values": [
+     "false",
+     "true"
+    ]
+   },
+   {
+    "name": "truncated",
+    "mutable": false,
+    "input_type": "checkbox",
+    "default_value": "false",
+    "values": [
+     "false",
+     "true"
+    ]
+   },
+   {
+    "name": "edge_zone",
+    "mutable": false,
+    "input_type": "checkbox",
+    "default_value": "false",
+    "values": [
+     "false",
+     "true"
+    ]
+   }
+  ]
+ },
+ {
+  "name": "Truck",
+  "type": "any",
+  "color": "#a05aff",
+  "attributes": [
+   {
+    "name": "occluded",
+    "mutable": false,
+    "input_type": "checkbox",
+    "default_value": "false",
+    "values": [
+     "false",
+     "true"
+    ]
+   },
+   {
+    "name": "truncated",
+    "mutable": false,
+    "input_type": "checkbox",
+    "default_value": "false",
+    "values": [
+     "false",
+     "true"
+    ]
+   },
+   {
+    "name": "edge_zone",
+    "mutable": false,
+    "input_type": "checkbox",
+    "default_value": "false",
+    "values": [
+     "false",
+     "true"
+    ]
+   }
+  ]
+ },
+ {
+  "name": "ThreeWheeler",
+  "type": "any",
+  "color": "#ffd400",
+  "attributes": [
+   {
+    "name": "occluded",
+    "mutable": false,
+    "input_type": "checkbox",
+    "default_value": "false",
+    "values": [
+     "false",
+     "true"
+    ]
+   },
+   {
+    "name": "truncated",
+    "mutable": false,
+    "input_type": "checkbox",
+    "default_value": "false",
+    "values": [
+     "false",
+     "true"
+    ]
+   },
+   {
+    "name": "edge_zone",
+    "mutable": false,
+    "input_type": "checkbox",
+    "default_value": "false",
+    "values": [
+     "false",
+     "true"
+    ]
+   }
+  ]
+ },
+ {
+  "name": "ignore_region",
+  "type": "any",
+  "color": "#808080",
+  "attributes": [
+   {
+    "name": "reason",
+    "mutable": false,
+    "input_type": "select",
+    "default_value": "ego_body",
+    "values": [
+     "ego_body",
+     "lens_border",
+     "crowd_or_group",
+     "unreadable",
+     "privacy_or_policy"
+    ]
+   }
+  ]
+ }
+]

@@ -1,0 +1,136 @@
+{
+ "H": 40,
+ "C0": {
+  "frame": "adasind_019560.jpg"
+ },
+ "slices": [
+  {
+   "slice": "B1-edge",
+   "frames": [
+    "adasind_001320.jpg",
+    "adasind_014670.jpg",
+    "adasind_034080.jpg"
+   ]
+  },
+  {
+   "slice": "B1-center",
+   "frames": [
+    "adasind_006840.jpg",
+    "adasind_036720.jpg",
+    "adasind_056040.jpg"
+   ]
+  },
+  {
+   "slice": "B1-mid",
+   "frames": [
+    "adasind_014670.jpg",
+    "adasind_032280.jpg",
+    "adasind_034080.jpg"
+   ]
+  },
+  {
+   "slice": "B1-dense",
+   "frames": [
+    "adasind_001320.jpg",
+    "adasind_012570.jpg",
+    "adasind_036720.jpg"
+   ]
+  },
+  {
+   "slice": "B2-edge",
+   "frames": [
+    "adasind_069450.jpg",
+    "adasind_082170.jpg",
+    "adasind_102750.jpg"
+   ]
+  },
+  {
+   "slice": "B2-center",
+   "frames": [
+    "adasind_062370.jpg",
+    "adasind_086220.jpg",
+    "adasind_117120.jpg"
+   ]
+  },
+  {
+   "slice": "B2-mid",
+   "frames": [
+    "adasind_060000.jpg",
+    "adasind_086220.jpg",
+    "adasind_102750.jpg"
+   ]
+  },
+  {
+   "slice": "B2-dense",
+   "frames": [
+    "adasind_062370.jpg",
+    "adasind_069450.jpg",
+    "adasind_117120.jpg"
+   ]
+  },
+  {
+   "slice": "B3-edge",
+   "frames": [
+    "adasind_123090.jpg",
+    "adasind_128310.jpg",
+    "adasind_199770.jpg"
+   ]
+  },
+  {
+   "slice": "B3-center",
+   "frames": [
+    "adasind_152940.jpg",
+    "adasind_167700.jpg",
+    "adasind_212280.jpg"
+   ]
+  },
+  {
+   "slice": "B3-mid",
+   "frames": [
+    "adasind_128310.jpg",
+    "adasind_140160.jpg",
+    "adasind_230910.jpg"
+   ]
+  },
+  {
+   "slice": "B3-dense",
+   "frames": [
+    "adasind_145860.jpg",
+    "adasind_167700.jpg",
+    "adasind_199770.jpg"
+   ]
+  },
+  {
+   "slice": "B4-edge",
+   "frames": [
+    "adasind_236370.jpg",
+    "adasind_258420.jpg",
+    "adasind_310008.jpg"
+   ]
+  },
+  {
+   "slice": "B4-center",
+   "frames": [
+    "adasind_270517.jpg",
+    "adasind_271039.jpg",
+    "adasind_295948.jpg"
+   ]
+  },
+  {
+   "slice": "B4-mid",
+   "frames": [
+    "adasind_249480.jpg",
+    "adasind_261480.jpg",
+    "adasind_265065.jpg"
+   ]
+  },
+  {
+   "slice": "B4-dense",
+   "frames": [
+    "adasind_258420.jpg",
+    "adasind_270517.jpg",
+    "adasind_310008.jpg"
+   ]
+  }
+ ]
+}

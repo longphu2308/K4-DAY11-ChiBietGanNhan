@@ -1,0 +1,418 @@
+{
+ "B1-edge": [
+  {
+   "frame": "adasind_014670.jpg",
+   "label": "Car",
+   "zone": "edge",
+   "hint": "926,1072"
+  },
+  {
+   "frame": "adasind_001320.jpg",
+   "label": "ThreeWheeler",
+   "zone": "edge",
+   "hint": "44,918"
+  },
+  {
+   "frame": "adasind_034080.jpg",
+   "label": "Pedestrian",
+   "zone": "edge",
+   "hint": "1034,1124"
+  },
+  {
+   "frame": "adasind_034080.jpg",
+   "label": "ThreeWheeler",
+   "zone": "center",
+   "hint": "448,1106"
+  }
+ ],
+ "B1-center": [
+  {
+   "frame": "adasind_056040.jpg",
+   "label": "Bike",
+   "zone": "edge",
+   "hint": "71,890"
+  },
+  {
+   "frame": "adasind_036720.jpg",
+   "label": "Bike",
+   "zone": "edge",
+   "hint": "56,1074"
+  },
+  {
+   "frame": "adasind_006840.jpg",
+   "label": "Pedestrian",
+   "zone": "edge",
+   "hint": "25,869"
+  },
+  {
+   "frame": "adasind_056040.jpg",
+   "label": "ThreeWheeler",
+   "zone": "center",
+   "hint": "838,912"
+  }
+ ],
+ "B1-mid": [
+  {
+   "frame": "adasind_014670.jpg",
+   "label": "Car",
+   "zone": "edge",
+   "hint": "926,1072"
+  },
+  {
+   "frame": "adasind_034080.jpg",
+   "label": "Pedestrian",
+   "zone": "edge",
+   "hint": "1034,1124"
+  },
+  {
+   "frame": "adasind_034080.jpg",
+   "label": "Car",
+   "zone": "mid",
+   "hint": "60,1084"
+  },
+  {
+   "frame": "adasind_034080.jpg",
+   "label": "ThreeWheeler",
+   "zone": "center",
+   "hint": "448,1106"
+  }
+ ],
+ "B1-dense": [
+  {
+   "frame": "adasind_001320.jpg",
+   "label": "ThreeWheeler",
+   "zone": "edge",
+   "hint": "44,918"
+  },
+  {
+   "frame": "adasind_036720.jpg",
+   "label": "Bike",
+   "zone": "edge",
+   "hint": "56,1074"
+  },
+  {
+   "frame": "adasind_001320.jpg",
+   "label": "Pedestrian",
+   "zone": "edge",
+   "hint": "100,908"
+  },
+  {
+   "frame": "adasind_001320.jpg",
+   "label": "Truck",
+   "zone": "center",
+   "hint": "401,877"
+  }
+ ],
+ "B2-edge": [
+  {
+   "frame": "adasind_069450.jpg",
+   "label": "ThreeWheeler",
+   "zone": "edge",
+   "hint": "94,968"
+  },
+  {
+   "frame": "adasind_102750.jpg",
+   "label": "Truck",
+   "zone": "edge",
+   "hint": "45,906"
+  },
+  {
+   "frame": "adasind_082170.jpg",
+   "label": "Bike",
+   "zone": "edge",
+   "hint": "67,1106"
+  },
+  {
+   "frame": "adasind_082170.jpg",
+   "label": "ThreeWheeler",
+   "zone": "center",
+   "hint": "797,1046"
+  }
+ ],
+ "B2-center": [
+  {
+   "frame": "adasind_062370.jpg",
+   "label": "Bike",
+   "zone": "edge",
+   "hint": "976,926"
+  },
+  {
+   "frame": "adasind_117120.jpg",
+   "label": "Bike",
+   "zone": "mid",
+   "hint": "156,968"
+  },
+  {
+   "frame": "adasind_062370.jpg",
+   "label": "ThreeWheeler",
+   "zone": "mid",
+   "hint": "76,842"
+  },
+  {
+   "frame": "adasind_086220.jpg",
+   "label": "Bike",
+   "zone": "center",
+   "hint": "482,1057"
+  }
+ ],
+ "B2-mid": [
+  {
+   "frame": "adasind_060000.jpg",
+   "label": "ThreeWheeler",
+   "zone": "edge",
+   "hint": "1033,982"
+  },
+  {
+   "frame": "adasind_102750.jpg",
+   "label": "Truck",
+   "zone": "edge",
+   "hint": "45,906"
+  },
+  {
+   "frame": "adasind_102750.jpg",
+   "label": "ThreeWheeler",
+   "zone": "edge",
+   "hint": "133,918"
+  },
+  {
+   "frame": "adasind_060000.jpg",
+   "label": "ThreeWheeler",
+   "zone": "center",
+   "hint": "703,1028"
+  }
+ ],
+ "B2-dense": [
+  {
+   "frame": "adasind_062370.jpg",
+   "label": "Bike",
+   "zone": "edge",
+   "hint": "976,926"
+  },
+  {
+   "frame": "adasind_069450.jpg",
+   "label": "ThreeWheeler",
+   "zone": "edge",
+   "hint": "94,968"
+  },
+  {
+   "frame": "adasind_117120.jpg",
+   "label": "Bike",
+   "zone": "mid",
+   "hint": "156,968"
+  },
+  {
+   "frame": "adasind_117120.jpg",
+   "label": "ThreeWheeler",
+   "zone": "center",
+   "hint": "778,918"
+  }
+ ],
+ "B3-edge": [
+  {
+   "frame": "adasind_199770.jpg",
+   "label": "ThreeWheeler",
+   "zone": "edge",
+   "hint": "46,834"
+  },
+  {
+   "frame": "adasind_128310.jpg",
+   "label": "Pedestrian",
+   "zone": "edge",
+   "hint": "58,992"
+  },
+  {
+   "frame": "adasind_123090.jpg",
+   "label": "Truck",
+   "zone": "edge",
+   "hint": "48,996"
+  },
+  {
+   "frame": "adasind_123090.jpg",
+   "label": "Car",
+   "zone": "center",
+   "hint": "488,1018"
+  }
+ ],
+ "B3-center": [
+  {
+   "frame": "adasind_167700.jpg",
+   "label": "ThreeWheeler",
+   "zone": "edge",
+   "hint": "129,1046"
+  },
+  {
+   "frame": "adasind_212280.jpg",
+   "label": "Bus",
+   "zone": "edge",
+   "hint": "68,926"
+  },
+  {
+   "frame": "adasind_152940.jpg",
+   "label": "Bike",
+   "zone": "mid",
+   "hint": "971,919"
+  },
+  {
+   "frame": "adasind_167700.jpg",
+   "label": "Bike",
+   "zone": "center",
+   "hint": "510,1076"
+  }
+ ],
+ "B3-mid": [
+  {
+   "frame": "adasind_140160.jpg",
+   "label": "Bike",
+   "zone": "edge",
+   "hint": "1002,929"
+  },
+  {
+   "frame": "adasind_230910.jpg",
+   "label": "Truck",
+   "zone": "edge",
+   "hint": "46,970"
+  },
+  {
+   "frame": "adasind_128310.jpg",
+   "label": "Pedestrian",
+   "zone": "edge",
+   "hint": "58,992"
+  },
+  {
+   "frame": "adasind_128310.jpg",
+   "label": "Car",
+   "zone": "center",
+   "hint": "448,958"
+  }
+ ],
+ "B3-dense": [
+  {
+   "frame": "adasind_167700.jpg",
+   "label": "ThreeWheeler",
+   "zone": "edge",
+   "hint": "129,1046"
+  },
+  {
+   "frame": "adasind_199770.jpg",
+   "label": "ThreeWheeler",
+   "zone": "edge",
+   "hint": "46,834"
+  },
+  {
+   "frame": "adasind_199770.jpg",
+   "label": "Bike",
+   "zone": "edge",
+   "hint": "105,870"
+  },
+  {
+   "frame": "adasind_167700.jpg",
+   "label": "Bike",
+   "zone": "center",
+   "hint": "510,1076"
+  }
+ ],
+ "B4-edge": [
+  {
+   "frame": "adasind_236370.jpg",
+   "label": "Bike",
+   "zone": "edge",
+   "hint": "957,948"
+  },
+  {
+   "frame": "adasind_310008.jpg",
+   "label": "Pedestrian",
+   "zone": "edge",
+   "hint": "56,948"
+  },
+  {
+   "frame": "adasind_310008.jpg",
+   "label": "Pedestrian",
+   "zone": "edge",
+   "hint": "38,947"
+  },
+  {
+   "frame": "adasind_236370.jpg",
+   "label": "Truck",
+   "zone": "center",
+   "hint": "582,784"
+  }
+ ],
+ "B4-center": [
+  {
+   "frame": "adasind_270517.jpg",
+   "label": "Bike",
+   "zone": "edge",
+   "hint": "1037,1064"
+  },
+  {
+   "frame": "adasind_271039.jpg",
+   "label": "Pedestrian",
+   "zone": "edge",
+   "hint": "1009,910"
+  },
+  {
+   "frame": "adasind_271039.jpg",
+   "label": "ThreeWheeler",
+   "zone": "edge",
+   "hint": "19,856"
+  },
+  {
+   "frame": "adasind_270517.jpg",
+   "label": "ThreeWheeler",
+   "zone": "center",
+   "hint": "641,870"
+  }
+ ],
+ "B4-mid": [
+  {
+   "frame": "adasind_265065.jpg",
+   "label": "Pedestrian",
+   "zone": "mid",
+   "hint": "868,840"
+  },
+  {
+   "frame": "adasind_249480.jpg",
+   "label": "Truck",
+   "zone": "mid",
+   "hint": "202,744"
+  },
+  {
+   "frame": "adasind_261480.jpg",
+   "label": "Bike",
+   "zone": "mid",
+   "hint": "36,842"
+  },
+  {
+   "frame": "adasind_261480.jpg",
+   "label": "Car",
+   "zone": "center",
+   "hint": "664,802"
+  }
+ ],
+ "B4-dense": [
+  {
+   "frame": "adasind_270517.jpg",
+   "label": "Bike",
+   "zone": "edge",
+   "hint": "1037,1064"
+  },
+  {
+   "frame": "adasind_310008.jpg",
+   "label": "Pedestrian",
+   "zone": "edge",
+   "hint": "56,948"
+  },
+  {
+   "frame": "adasind_310008.jpg",
+   "label": "Pedestrian",
+   "zone": "edge",
+   "hint": "38,947"
+  },
+  {
+   "frame": "adasind_270517.jpg",
+   "label": "ThreeWheeler",
+   "zone": "center",
+   "hint": "641,870"
+  }
+ ]
+}

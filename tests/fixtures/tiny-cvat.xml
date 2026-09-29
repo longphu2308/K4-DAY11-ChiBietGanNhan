@@ -1,0 +1,8 @@
+<annotations>
+  <version>1.1</version>
+  <image id="0" name="f.jpg" width="200" height="200">
+    <box label="Car" source="manual" xtl="10" ytl="10" xbr="60" ybr="70">
+      <attribute name="truncated">false</attribute>
+    </box>
+  </image>
+</annotations>

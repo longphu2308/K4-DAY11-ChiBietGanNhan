@@ -1,0 +1,9 @@
+camera_id,slice_type,frames,risk,rationale
+front,normal,,TODO,TODO
+front,hard,,TODO,TODO
+rear,normal,,TODO,TODO
+rear,hard,,TODO,TODO
+left,normal,,TODO,TODO
+left,hard,,TODO,TODO
+right,normal,,TODO,TODO
+right,hard,,TODO,TODO

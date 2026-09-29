@@ -1,0 +1,4 @@
+[
+  {"name": "parking_line", "type": "any", "color": "#ffcc00", "attributes": []},
+  {"name": "free_space", "type": "any", "color": "#35c98b", "attributes": []}
+]

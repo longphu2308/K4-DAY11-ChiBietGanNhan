@@ -1,0 +1,2740 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotations>
+  <version>1.1</version>
+  <image id="0" name="adasind_001320.jpg" width="1080" height="1920">
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="80.89" ytl="848.02" xbr="122.78" ybr="967.52">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Truck" occluded="0" source="auto" z_order="0" xtl="339.48" ytl="809.07" xbr="461.77" ybr="944.94">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="450.34" ytl="845.27" xbr="525.11" ybr="973.72">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Bike" occluded="0" source="auto" z_order="0" xtl="450.72" ytl="905.26" xbr="534.48" ybr="1018.81">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Truck" occluded="0" source="auto" z_order="0" xtl="88.90" ytl="805.63" xbr="185.47" ybr="939.12">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Truck" occluded="0" source="auto" z_order="0" xtl="0.10" ytl="830.80" xbr="82.56" ybr="1016.50">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="0.24" ytl="1159.60" xbr="248.30" ybr="1619.11">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="0.07" ytl="1183.31" xbr="151.91" ybr="1428.69">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Car" occluded="0" source="auto" z_order="0" xtl="220.50" ytl="857.83" xbr="237.48" ybr="884.16">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+  </image>
+  <image id="1" name="adasind_006840.jpg" width="1080" height="1920">
+    <box label="Bike" occluded="0" source="auto" z_order="0" xtl="672.67" ytl="907.36" xbr="761.79" ybr="988.85">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="42.14" ytl="808.74" xbr="74.14" ybr="904.80">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="88.99" ytl="805.67" xbr="140.83" ybr="914.47">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Car" occluded="0" source="auto" z_order="0" xtl="233.13" ytl="829.89" xbr="266.34" ybr="872.98">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Bike" occluded="0" source="auto" z_order="0" xtl="257.12" ytl="856.87" xbr="311.74" ybr="947.39">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="252.84" ytl="811.25" xbr="321.03" ybr="918.19">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Bike" occluded="0" source="auto" z_order="0" xtl="91.95" ytl="858.46" xbr="137.78" ybr="938.58">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Truck" occluded="0" source="auto" z_order="0" xtl="187.94" ytl="820.18" xbr="235.16" ybr="882.25">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="253.86" ytl="809.95" xbr="304.53" ybr="930.73">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Car" occluded="0" source="auto" z_order="0" xtl="187.87" ytl="820.25" xbr="235.44" ybr="882.77">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="15.96" ytl="827.91" xbr="42.66" ybr="909.32">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Bus" occluded="0" source="auto" z_order="0" xtl="300.23" ytl="817.62" xbr="365.86" ybr="881.50">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Car" occluded="0" source="auto" z_order="0" xtl="365.02" ytl="796.61" xbr="570.33" ybr="1023.14">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+  </image>
+  <image id="2" name="adasind_010260.jpg" width="1080" height="1920">
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="126.83" ytl="823.33" xbr="259.56" ybr="1086.67">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Bike" occluded="0" source="auto" z_order="0" xtl="124.30" ytl="973.28" xbr="243.36" ybr="1178.45">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="487.18" ytl="885.24" xbr="508.22" ybr="971.46">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Car" occluded="0" source="auto" z_order="0" xtl="425.80" ytl="895.07" xbr="476.52" ybr="957.97">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="0.00" ytl="853.89" xbr="91.06" ybr="1065.41">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="579.84" ytl="889.42" xbr="611.08" ybr="988.17">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Truck" occluded="0" source="auto" z_order="0" xtl="199.73" ytl="857.27" xbr="310.53" ybr="1009.87">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Bike" occluded="0" source="auto" z_order="0" xtl="0.95" ytl="945.54" xbr="92.32" ybr="1095.53">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="0.00" ytl="1182.62" xbr="268.69" ybr="1712.29">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Bike" occluded="0" source="auto" z_order="0" xtl="371.21" ytl="915.78" xbr="410.97" ybr="985.83">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Car" occluded="0" source="auto" z_order="0" xtl="301.14" ytl="877.52" xbr="337.40" ybr="924.72">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="462.57" ytl="888.88" xbr="492.88" ybr="983.16">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Truck" occluded="0" source="auto" z_order="0" xtl="44.57" ytl="863.74" xbr="130.40" ybr="980.31">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Car" occluded="0" source="auto" z_order="0" xtl="44.77" ytl="174.09" xbr="1064.82" ybr="1108.49">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="467.20" ytl="888.76" xbr="492.70" ybr="964.96">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Bike" occluded="0" source="auto" z_order="0" xtl="540.25" ytl="921.57" xbr="576.91" ybr="992.09">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Car" occluded="0" source="auto" z_order="0" xtl="62.91" ytl="960.69" xbr="1074.67" ybr="1920.00">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="369.81" ytl="898.80" xbr="411.43" ybr="965.62">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Bike" occluded="0" source="auto" z_order="0" xtl="0.00" ytl="1034.67" xbr="153.09" ybr="1246.73">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+  </image>
+  <image id="3" name="adasind_012570.jpg" width="1080" height="1920">
+    <box label="Bike" occluded="0" source="auto" z_order="0" xtl="713.82" ytl="961.32" xbr="839.52" ybr="1047.11">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="133.67" ytl="900.69" xbr="181.58" ybr="1028.95">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Car" occluded="0" source="auto" z_order="0" xtl="0.00" ytl="921.62" xbr="30.32" ybr="1026.87">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="96.86" ytl="893.24" xbr="134.58" ybr="1024.41">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="0.00" ytl="1220.98" xbr="278.60" ybr="1694.44">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Bike" occluded="0" source="auto" z_order="0" xtl="330.80" ytl="930.27" xbr="361.96" ybr="992.82">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Car" occluded="0" source="auto" z_order="0" xtl="312.74" ytl="923.63" xbr="336.03" ybr="956.44">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Truck" occluded="0" source="auto" z_order="0" xtl="386.97" ytl="907.22" xbr="485.48" ybr="1024.00">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Car" occluded="0" source="auto" z_order="0" xtl="224.12" ytl="905.84" xbr="321.21" ybr="1027.72">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Car" occluded="0" source="auto" z_order="0" xtl="336.26" ytl="916.65" xbr="382.71" ybr="971.19">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Truck" occluded="0" source="auto" z_order="0" xtl="224.58" ytl="905.85" xbr="321.50" ybr="1027.30">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Car" occluded="0" source="auto" z_order="0" xtl="386.96" ytl="907.38" xbr="485.38" ybr="1023.80">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Bike" occluded="0" source="auto" z_order="0" xtl="509.44" ytl="939.53" xbr="548.67" ybr="1007.42">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Car" occluded="0" source="auto" z_order="0" xtl="377.35" ytl="930.68" xbr="393.12" ybr="955.50">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Bike" occluded="0" source="auto" z_order="0" xtl="509.75" ytl="935.77" xbr="570.00" ybr="1007.67">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+  </image>
+  <image id="4" name="adasind_014670.jpg" width="1080" height="1920">
+    <box label="Car" occluded="0" source="auto" z_order="0" xtl="780.38" ytl="972.80" xbr="1080.00" ybr="1174.03">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="0.00" ytl="1235.49" xbr="295.84" ybr="1685.45">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Bus" occluded="0" source="auto" z_order="0" xtl="0.42" ytl="825.39" xbr="80.88" ybr="1088.59">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="481.59" ytl="964.83" xbr="501.74" ybr="1022.43">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="536.21" ytl="963.55" xbr="559.65" ybr="1040.42">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Truck" occluded="0" source="auto" z_order="0" xtl="58.26" ytl="909.55" xbr="248.26" ybr="1144.36">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Truck" occluded="0" source="auto" z_order="0" xtl="358.90" ytl="953.17" xbr="397.72" ybr="1002.22">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Car" occluded="0" source="auto" z_order="0" xtl="403.05" ytl="956.44" xbr="429.01" ybr="987.91">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+  </image>
+  <image id="5" name="adasind_019560.jpg" width="1080" height="1920">
+    <box label="Bike" occluded="0" source="auto" z_order="0" xtl="593.31" ytl="796.07" xbr="729.92" ybr="910.96">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="629.76" ytl="741.22" xbr="687.24" ybr="907.04">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Bike" occluded="0" source="auto" z_order="0" xtl="890.30" ytl="796.46" xbr="980.08" ybr="895.79">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Bike" occluded="0" source="auto" z_order="0" xtl="420.51" ytl="791.78" xbr="520.63" ybr="918.65">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="456.25" ytl="731.00" xbr="536.07" ybr="833.42">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Bike" occluded="0" source="auto" z_order="0" xtl="327.92" ytl="778.13" xbr="389.64" ybr="849.50">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Truck" occluded="0" source="auto" z_order="0" xtl="43.14" ytl="772.08" xbr="98.21" ybr="853.11">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Truck" occluded="0" source="auto" z_order="0" xtl="286.96" ytl="741.29" xbr="337.24" ybr="826.72">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+  </image>
+  <image id="6" name="adasind_032280.jpg" width="1080" height="1920">
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="756.02" ytl="934.06" xbr="854.98" ybr="1272.21">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Bike" occluded="0" source="auto" z_order="0" xtl="449.63" ytl="1020.96" xbr="682.75" ybr="1388.89">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="477.14" ytl="950.54" xbr="650.54" ybr="1272.74">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Car" occluded="0" source="auto" z_order="0" xtl="610.78" ytl="951.75" xbr="1040.95" ybr="1197.31">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Car" occluded="0" source="auto" z_order="0" xtl="229.00" ytl="997.17" xbr="279.74" ybr="1052.63">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="0.03" ytl="1295.18" xbr="186.49" ybr="1609.37">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="284.20" ytl="1000.32" xbr="318.60" ybr="1064.52">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Car" occluded="0" source="auto" z_order="0" xtl="18.77" ytl="912.56" xbr="1037.89" ybr="1917.57">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Bike" occluded="0" source="auto" z_order="0" xtl="178.88" ytl="1012.95" xbr="194.53" ybr="1041.19">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Car" occluded="0" source="auto" z_order="0" xtl="53.57" ytl="961.62" xbr="176.00" ybr="1122.92">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Bike" occluded="0" source="auto" z_order="0" xtl="285.70" ytl="1020.97" xbr="323.43" ybr="1077.46">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Bike" occluded="0" source="auto" z_order="0" xtl="285.61" ytl="1026.36" xbr="318.35" ybr="1071.13">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+  </image>
+  <image id="7" name="adasind_034080.jpg" width="1080" height="1920">
+    <box label="Car" occluded="0" source="auto" z_order="0" xtl="0.00" ytl="1028.55" xbr="123.65" ybr="1144.90">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Car" occluded="0" source="auto" z_order="0" xtl="639.12" ytl="1055.72" xbr="936.01" ybr="1224.58">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Car" occluded="0" source="auto" z_order="0" xtl="511.19" ytl="1073.67" xbr="572.52" ybr="1152.11">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="749.20" ytl="1018.91" xbr="806.82" ybr="1236.06">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="998.75" ytl="1026.03" xbr="1077.60" ybr="1220.17">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="0.00" ytl="1397.42" xbr="209.04" ybr="1653.83">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="131.47" ytl="1014.50" xbr="177.60" ybr="1110.62">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="114.40" ytl="998.57" xbr="277.71" ybr="1237.44">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Bike" occluded="0" source="auto" z_order="0" xtl="160.25" ytl="1134.95" xbr="249.63" ybr="1298.76">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Car" occluded="0" source="auto" z_order="0" xtl="333.52" ytl="1068.17" xbr="363.21" ybr="1103.44">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Car" occluded="0" source="auto" z_order="0" xtl="360.65" ytl="1069.89" xbr="386.90" ybr="1108.68">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Car" occluded="0" source="auto" z_order="0" xtl="376.45" ytl="1030.70" xbr="519.00" ybr="1200.08">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Car" occluded="0" source="auto" z_order="0" xtl="239.05" ytl="1032.47" xbr="298.92" ybr="1096.54">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="168.46" ytl="997.63" xbr="275.88" ybr="1235.12">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+  </image>
+  <image id="8" name="adasind_036720.jpg" width="1080" height="1920">
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="33.89" ytl="976.86" xbr="78.09" ybr="1137.38">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Car" occluded="0" source="auto" z_order="0" xtl="262.57" ytl="1023.52" xbr="303.86" ybr="1057.53">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Car" occluded="0" source="auto" z_order="0" xtl="224.79" ytl="1023.35" xbr="263.53" ybr="1052.41">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Car" occluded="0" source="auto" z_order="0" xtl="166.27" ytl="1019.52" xbr="187.23" ybr="1041.58">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Bike" occluded="0" source="auto" z_order="0" xtl="43.97" ytl="1061.70" xbr="70.50" ybr="1163.62">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Car" occluded="0" source="auto" z_order="0" xtl="357.58" ytl="1021.01" xbr="436.19" ybr="1089.44">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Car" occluded="0" source="auto" z_order="0" xtl="481.72" ytl="1014.35" xbr="591.46" ybr="1117.29">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="0.12" ytl="1243.99" xbr="121.89" ybr="1569.22">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="110.63" ytl="1018.48" xbr="121.36" ybr="1047.05">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Bike" occluded="0" source="auto" z_order="0" xtl="36.49" ytl="1062.61" xbr="75.08" ybr="1162.43">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Car" occluded="0" source="auto" z_order="0" xtl="128.84" ytl="1010.05" xbr="151.28" ybr="1044.63">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+  </image>
+  <image id="9" name="adasind_043110.jpg" width="1080" height="1920">
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="0.00" ytl="843.27" xbr="64.38" ybr="1043.72">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="186.64" ytl="836.66" xbr="251.85" ybr="959.99">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Bus" occluded="0" source="auto" z_order="0" xtl="669.68" ytl="639.40" xbr="1080.00" ybr="1038.34">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="65.90" ytl="851.56" xbr="124.45" ybr="963.01">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Bike" occluded="0" source="auto" z_order="0" xtl="0.14" ytl="970.91" xbr="44.90" ybr="1097.35">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Bike" occluded="0" source="auto" z_order="0" xtl="192.77" ytl="885.18" xbr="245.62" ybr="987.51">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Bike" occluded="0" source="auto" z_order="0" xtl="74.56" ytl="917.22" xbr="126.06" ybr="990.42">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Truck" occluded="0" source="auto" z_order="0" xtl="267.06" ytl="820.31" xbr="424.90" ybr="993.14">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="0.00" ytl="1213.49" xbr="218.37" ybr="1634.83">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Car" occluded="0" source="auto" z_order="0" xtl="150.45" ytl="861.89" xbr="189.63" ybr="909.52">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Bike" occluded="0" source="auto" z_order="0" xtl="0.24" ytl="946.02" xbr="63.61" ybr="1097.96">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+  </image>
+  <image id="10" name="adasind_048720.jpg" width="1080" height="1920">
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="94.13" ytl="869.67" xbr="235.23" ybr="1126.26">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Car" occluded="0" source="auto" z_order="0" xtl="304.62" ytl="927.63" xbr="349.72" ybr="967.28">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Car" occluded="0" source="auto" z_order="0" xtl="224.10" ytl="919.90" xbr="300.71" ybr="975.53">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="1.71" ytl="1209.79" xbr="358.80" ybr="1725.93">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Bike" occluded="0" source="auto" z_order="0" xtl="119.99" ytl="1048.11" xbr="226.02" ybr="1203.88">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Car" occluded="0" source="auto" z_order="0" xtl="0.51" ytl="940.77" xbr="89.92" ybr="1017.19">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Car" occluded="0" source="auto" z_order="0" xtl="343.15" ytl="912.61" xbr="426.19" ybr="969.87">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Car" occluded="0" source="auto" z_order="0" xtl="162.48" ytl="911.82" xbr="245.54" ybr="1035.85">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Car" occluded="0" source="auto" z_order="0" xtl="486.93" ytl="873.25" xbr="639.04" ybr="977.56">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="0.40" ytl="984.07" xbr="23.40" ybr="1048.71">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Car" occluded="0" source="auto" z_order="0" xtl="72.06" ytl="943.76" xbr="99.98" ybr="985.77">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Bike" occluded="0" source="auto" z_order="0" xtl="48.40" ytl="958.49" xbr="89.75" ybr="1024.52">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+  </image>
+  <image id="11" name="adasind_056040.jpg" width="1080" height="1920">
+    <box label="Car" occluded="0" source="auto" z_order="0" xtl="536.88" ytl="739.02" xbr="634.47" ybr="911.93">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="0.41" ytl="719.99" xbr="138.56" ybr="1042.20">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Bike" occluded="0" source="auto" z_order="0" xtl="15.28" ytl="920.21" xbr="122.51" ybr="1098.11">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="211.45" ytl="774.59" xbr="248.82" ybr="851.77">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Truck" occluded="0" source="auto" z_order="0" xtl="257.96" ytl="716.40" xbr="476.97" ybr="962.52">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Car" occluded="0" source="auto" z_order="0" xtl="80.51" ytl="750.63" xbr="191.94" ybr="982.31">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="480.99" ytl="757.21" xbr="534.96" ybr="909.07">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Bike" occluded="0" source="auto" z_order="0" xtl="174.34" ytl="817.95" xbr="224.85" ybr="920.91">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Bike" occluded="0" source="auto" z_order="0" xtl="180.28" ytl="848.69" xbr="222.22" ybr="921.41">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="0.00" ytl="1055.58" xbr="221.25" ybr="1584.89">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="171.31" ytl="772.47" xbr="217.70" ybr="866.25">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+  </image>
+  <image id="12" name="adasind_060000.jpg" width="1080" height="1920">
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="0.00" ytl="1125.10" xbr="197.72" ybr="1725.39">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="81.84" ytl="822.97" xbr="169.82" ybr="1008.86">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Bike" occluded="0" source="auto" z_order="0" xtl="91.52" ytl="936.63" xbr="157.05" ybr="1050.82">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="13.09" ytl="874.89" xbr="41.67" ybr="960.24">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="58.12" ytl="872.97" xbr="79.40" ybr="951.72">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="185.55" ytl="870.14" xbr="201.49" ybr="913.09">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="39.62" ytl="868.64" xbr="60.51" ybr="947.73">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="36.90" ytl="868.64" xbr="65.00" ybr="974.35">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Truck" occluded="0" source="auto" z_order="0" xtl="346.99" ytl="854.72" xbr="422.67" ybr="941.68">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Car" occluded="0" source="auto" z_order="0" xtl="346.99" ytl="855.03" xbr="422.79" ybr="942.51">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="347.11" ytl="863.18" xbr="368.46" ybr="940.91">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Car" occluded="0" source="auto" z_order="0" xtl="216.83" ytl="867.26" xbr="257.52" ybr="919.90">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="264.24" ytl="872.54" xbr="289.71" ybr="915.40">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+  </image>
+  <image id="13" name="adasind_062370.jpg" width="1080" height="1920">
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="0.00" ytl="1054.12" xbr="171.99" ybr="1604.17">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Bike" occluded="0" source="auto" z_order="0" xtl="383.47" ytl="805.60" xbr="467.64" ybr="922.80">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="394.45" ytl="748.18" xbr="470.77" ybr="878.80">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="934.35" ytl="775.53" xbr="1029.49" ybr="1093.96">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Truck" occluded="0" source="auto" z_order="0" xtl="161.64" ytl="748.96" xbr="256.95" ybr="875.52">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Car" occluded="0" source="auto" z_order="0" xtl="586.94" ytl="757.82" xbr="924.93" ybr="983.43">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Bike" occluded="0" source="auto" z_order="0" xtl="487.00" ytl="787.09" xbr="528.08" ybr="856.62">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Truck" occluded="0" source="auto" z_order="0" xtl="0.00" ytl="707.03" xbr="153.57" ybr="983.18">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Bike" occluded="0" source="auto" z_order="0" xtl="878.96" ytl="892.17" xbr="1078.24" ybr="1068.40">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Truck" occluded="0" source="auto" z_order="0" xtl="249.42" ytl="755.25" xbr="309.81" ybr="842.23">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+  </image>
+  <image id="14" name="adasind_069450.jpg" width="1080" height="1920">
+    <box label="Car" occluded="0" source="auto" z_order="0" xtl="0.00" ytl="1000.09" xbr="69.24" ybr="1125.52">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="0.00" ytl="1083.93" xbr="224.93" ybr="1641.37">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="708.21" ytl="849.36" xbr="730.88" ybr="904.77">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="739.82" ytl="849.40" xbr="756.98" ybr="899.56">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Car" occluded="0" source="auto" z_order="0" xtl="341.53" ytl="883.68" xbr="382.62" ybr="907.28">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Truck" occluded="0" source="auto" z_order="0" xtl="5.59" ytl="875.49" xbr="184.87" ybr="1061.93">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="769.19" ytl="840.30" xbr="789.02" ybr="903.34">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Truck" occluded="0" source="auto" z_order="0" xtl="237.80" ytl="863.38" xbr="313.14" ybr="960.78">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+  </image>
+  <image id="15" name="adasind_073020.jpg" width="1080" height="1920">
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="221.89" ytl="981.67" xbr="266.08" ybr="1106.49">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Bike" occluded="0" source="auto" z_order="0" xtl="889.38" ytl="1041.71" xbr="1079.21" ybr="1249.58">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Bike" occluded="0" source="auto" z_order="0" xtl="558.56" ytl="1044.21" xbr="651.29" ybr="1198.11">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="54.82" ytl="1035.90" xbr="120.52" ybr="1139.54">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="550.69" ytl="983.23" xbr="630.05" ybr="1145.40">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="157.64" ytl="985.15" xbr="203.16" ybr="1110.88">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Bike" occluded="0" source="auto" z_order="0" xtl="760.57" ytl="1052.47" xbr="919.65" ybr="1156.08">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Car" occluded="0" source="auto" z_order="0" xtl="352.95" ytl="980.51" xbr="462.96" ybr="1118.51">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="306.95" ytl="994.52" xbr="326.49" ybr="1072.63">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Truck" occluded="0" source="auto" z_order="0" xtl="352.65" ytl="981.18" xbr="462.51" ybr="1119.27">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="125.86" ytl="988.95" xbr="157.52" ybr="1089.07">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Bike" occluded="0" source="auto" z_order="0" xtl="264.33" ytl="1031.31" xbr="300.63" ybr="1090.09">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Bike" occluded="0" source="auto" z_order="0" xtl="191.60" ytl="1035.42" xbr="236.87" ybr="1095.46">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="665.35" ytl="1018.59" xbr="691.71" ybr="1090.14">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Car" occluded="0" source="auto" z_order="0" xtl="509.42" ytl="998.10" xbr="580.07" ybr="1090.53">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="0.00" ytl="1210.95" xbr="283.15" ybr="1481.27">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+  </image>
+  <image id="16" name="adasind_074520.jpg" width="1080" height="1920">
+    <box label="Car" occluded="0" source="auto" z_order="0" xtl="865.21" ytl="952.42" xbr="1080.00" ybr="1096.03">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="1.27" ytl="871.00" xbr="79.14" ybr="1055.04">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="543.93" ytl="929.66" xbr="605.99" ybr="1057.04">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="135.68" ytl="853.30" xbr="246.83" ybr="1081.70">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Bike" occluded="0" source="auto" z_order="0" xtl="121.85" ytl="960.85" xbr="238.23" ybr="1150.02">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Bike" occluded="0" source="auto" z_order="0" xtl="967.74" ytl="1029.59" xbr="1079.81" ybr="1132.29">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Bike" occluded="0" source="auto" z_order="0" xtl="53.41" ytl="937.80" xbr="134.50" ybr="1012.24">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Car" occluded="0" source="auto" z_order="0" xtl="808.53" ytl="947.43" xbr="895.51" ybr="1043.18">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Truck" occluded="0" source="auto" z_order="0" xtl="284.50" ytl="901.38" xbr="394.53" ybr="1031.37">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Car" occluded="0" source="auto" z_order="0" xtl="856.32" ytl="950.63" xbr="1009.73" ybr="1049.41">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Truck" occluded="0" source="auto" z_order="0" xtl="448.72" ytl="920.91" xbr="486.79" ybr="967.02">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Car" occluded="0" source="auto" z_order="0" xtl="666.38" ytl="938.06" xbr="840.45" ybr="1106.24">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="61.56" ytl="893.35" xbr="88.58" ybr="943.88">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Car" occluded="0" source="auto" z_order="0" xtl="392.86" ytl="925.35" xbr="444.43" ybr="988.78">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Truck" occluded="0" source="auto" z_order="0" xtl="392.61" ytl="924.67" xbr="444.89" ybr="988.54">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Truck" occluded="0" source="auto" z_order="0" xtl="603.95" ytl="939.87" xbr="672.69" ybr="1031.50">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Car" occluded="0" source="auto" z_order="0" xtl="491.34" ytl="929.93" xbr="530.93" ybr="976.76">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Car" occluded="0" source="auto" z_order="0" xtl="0.00" ytl="1050.44" xbr="118.40" ybr="1220.03">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Car" occluded="0" source="auto" z_order="0" xtl="490.85" ytl="946.33" xbr="527.61" ybr="976.71">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="477.61" ytl="943.61" xbr="494.30" ybr="982.73">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Car" occluded="0" source="auto" z_order="0" xtl="604.12" ytl="940.65" xbr="672.24" ybr="1030.60">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="0.00" ytl="1170.12" xbr="239.94" ybr="1671.02">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="0.42" ytl="1168.59" xbr="215.37" ybr="1402.17">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="520.46" ytl="945.95" xbr="540.97" ybr="992.56">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="658.20" ytl="944.86" xbr="693.38" ybr="1051.83">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="0.13" ytl="897.77" xbr="14.88" ybr="946.50">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+  </image>
+  <image id="17" name="adasind_082170.jpg" width="1080" height="1920">
+    <box label="Bike" occluded="0" source="auto" z_order="0" xtl="524.60" ytl="1036.55" xbr="586.67" ybr="1082.82">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="278.99" ytl="1032.09" xbr="311.72" ybr="1098.98">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Bike" occluded="0" source="auto" z_order="0" xtl="848.95" ytl="1019.08" xbr="911.70" ybr="1098.60">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Car" occluded="0" source="auto" z_order="0" xtl="367.31" ytl="1030.68" xbr="388.50" ybr="1051.91">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="0.00" ytl="1148.25" xbr="344.43" ybr="1683.71">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Truck" occluded="0" source="auto" z_order="0" xtl="175.47" ytl="1025.35" xbr="267.55" ybr="1128.17">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="542.80" ytl="1020.18" xbr="571.65" ybr="1069.78">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Truck" occluded="0" source="auto" z_order="0" xtl="704.14" ytl="985.14" xbr="854.33" ybr="1121.85">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Bike" occluded="0" source="auto" z_order="0" xtl="44.30" ytl="1205.33" xbr="231.18" ybr="1416.21">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="1001.84" ytl="873.19" xbr="1046.79" ybr="917.35">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Car" occluded="0" source="auto" z_order="0" xtl="397.36" ytl="1028.85" xbr="418.04" ybr="1048.46">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Car" occluded="0" source="auto" z_order="0" xtl="316.53" ytl="1034.32" xbr="369.88" ybr="1067.49">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Bike" occluded="0" source="auto" z_order="0" xtl="72.79" ytl="1076.32" xbr="157.02" ybr="1149.08">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+  </image>
+  <image id="18" name="adasind_086220.jpg" width="1080" height="1920">
+    <box label="Bike" occluded="0" source="auto" z_order="0" xtl="424.24" ytl="983.19" xbr="553.51" ybr="1198.03">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="428.97" ytl="919.66" xbr="552.20" ybr="1130.35">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="361.88" ytl="962.27" xbr="394.53" ybr="1038.85">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Bike" occluded="0" source="auto" z_order="0" xtl="363.37" ytl="998.22" xbr="396.72" ybr="1056.81">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Truck" occluded="0" source="auto" z_order="0" xtl="660.82" ytl="868.57" xbr="1079.92" ybr="1288.64">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Bike" occluded="0" source="auto" z_order="0" xtl="316.92" ytl="994.70" xbr="360.00" ybr="1028.08">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Car" occluded="0" source="auto" z_order="0" xtl="404.03" ytl="982.19" xbr="439.99" ybr="1017.56">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Car" occluded="0" source="auto" z_order="0" xtl="660.50" ytl="870.83" xbr="1079.19" ybr="1289.05">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Car" occluded="0" source="auto" z_order="0" xtl="246.33" ytl="971.76" xbr="270.05" ybr="991.15">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Car" occluded="0" source="auto" z_order="0" xtl="37.81" ytl="963.51" xbr="99.93" ybr="1010.01">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Car" occluded="0" source="auto" z_order="0" xtl="321.02" ytl="962.33" xbr="376.73" ybr="1022.05">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+  </image>
+  <image id="19" name="adasind_091830.jpg" width="1080" height="1920">
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="0.00" ytl="1195.88" xbr="214.75" ybr="1765.32">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Bike" occluded="0" source="auto" z_order="0" xtl="11.39" ytl="890.67" xbr="161.68" ybr="994.21">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="138.75" ytl="860.63" xbr="201.95" ybr="1014.44">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="191.14" ytl="870.50" xbr="249.83" ybr="1012.37">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Truck" occluded="0" source="auto" z_order="0" xtl="512.33" ytl="871.83" xbr="606.75" ybr="959.55">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="291.72" ytl="886.31" xbr="310.08" ybr="944.89">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Bike" occluded="0" source="auto" z_order="0" xtl="347.92" ytl="905.69" xbr="376.39" ybr="932.45">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="323.13" ytl="889.77" xbr="341.53" ybr="927.31">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Car" occluded="0" source="auto" z_order="0" xtl="489.43" ytl="892.59" xbr="516.65" ybr="926.04">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Car" occluded="0" source="auto" z_order="0" xtl="433.89" ytl="885.80" xbr="468.24" ybr="912.88">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Bike" occluded="0" source="auto" z_order="0" xtl="1046.74" ytl="932.92" xbr="1077.33" ybr="1004.23">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="920.98" ytl="930.84" xbr="938.86" ybr="981.30">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+  </image>
+  <image id="20" name="adasind_098190.jpg" width="1080" height="1920">
+    <box label="Truck" occluded="0" source="auto" z_order="0" xtl="86.98" ytl="844.68" xbr="464.79" ybr="1138.81">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="768.45" ytl="849.59" xbr="835.09" ybr="1075.38">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="900.24" ytl="832.26" xbr="966.30" ybr="1128.42">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="843.92" ytl="838.73" xbr="917.33" ybr="1094.26">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="55.83" ytl="935.47" xbr="99.30" ybr="1046.55">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Bike" occluded="0" source="auto" z_order="0" xtl="0.34" ytl="1006.35" xbr="65.00" ybr="1098.63">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="935.14" ytl="833.67" xbr="979.28" ybr="1108.57">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Truck" occluded="0" source="auto" z_order="0" xtl="476.59" ytl="772.09" xbr="681.93" ybr="1044.51">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Car" occluded="0" source="auto" z_order="0" xtl="675.58" ytl="892.00" xbr="863.58" ybr="1038.97">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Bike" occluded="0" source="auto" z_order="0" xtl="845.70" ytl="923.27" xbr="1027.14" ybr="1092.44">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Car" occluded="0" source="auto" z_order="0" xtl="675.56" ytl="892.48" xbr="781.00" ybr="1021.38">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Bike" occluded="0" source="auto" z_order="0" xtl="971.95" ytl="994.97" xbr="1026.82" ybr="1092.03">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Truck" occluded="0" source="auto" z_order="0" xtl="479.37" ytl="853.82" xbr="681.57" ybr="1044.32">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Bike" occluded="0" source="auto" z_order="0" xtl="827.26" ytl="938.10" xbr="868.79" ybr="1063.80">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="90.54" ytl="990.42" xbr="107.44" ybr="1032.55">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+  </image>
+  <image id="21" name="adasind_102750.jpg" width="1080" height="1920">
+    <box label="Truck" occluded="0" source="auto" z_order="0" xtl="854.95" ytl="913.60" xbr="1080.00" ybr="1155.93">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Truck" occluded="0" source="auto" z_order="0" xtl="0.07" ytl="846.29" xbr="89.71" ybr="961.79">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Car" occluded="0" source="auto" z_order="0" xtl="117.22" ytl="891.84" xbr="168.97" ybr="948.10">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Truck" occluded="0" source="auto" z_order="0" xtl="208.73" ytl="900.14" xbr="255.62" ybr="961.84">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Car" occluded="0" source="auto" z_order="0" xtl="33.80" ytl="93.30" xbr="1063.97" ybr="1002.74">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Truck" occluded="0" source="auto" z_order="0" xtl="423.60" ytl="937.25" xbr="458.92" ybr="981.57">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Car" occluded="0" source="auto" z_order="0" xtl="333.02" ytl="915.84" xbr="365.78" ybr="953.34">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Car" occluded="0" source="auto" z_order="0" xtl="172.44" ytl="891.34" xbr="212.35" ybr="939.28">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Truck" occluded="0" source="auto" z_order="0" xtl="332.64" ytl="912.48" xbr="366.11" ybr="953.09">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+  </image>
+  <image id="22" name="adasind_117120.jpg" width="1080" height="1920">
+    <box label="Truck" occluded="0" source="auto" z_order="0" xtl="478.45" ytl="870.91" xbr="632.56" ybr="998.53">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Bike" occluded="0" source="auto" z_order="0" xtl="95.20" ytl="947.46" xbr="201.61" ybr="1026.17">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Car" occluded="0" source="auto" z_order="0" xtl="191.20" ytl="926.37" xbr="283.62" ybr="997.51">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="692.75" ytl="883.99" xbr="731.05" ybr="972.91">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Car" occluded="0" source="auto" z_order="0" xtl="322.08" ytl="917.93" xbr="352.81" ybr="951.02">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Car" occluded="0" source="auto" z_order="0" xtl="390.33" ytl="921.86" xbr="415.95" ybr="943.74">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Car" occluded="0" source="auto" z_order="0" xtl="350.22" ytl="920.39" xbr="393.41" ybr="960.74">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="119.89" ytl="919.31" xbr="176.69" ybr="1023.06">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Truck" occluded="0" source="auto" z_order="0" xtl="726.02" ytl="870.23" xbr="853.43" ybr="983.39">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Car" occluded="0" source="auto" z_order="0" xtl="420.20" ytl="893.69" xbr="462.67" ybr="942.63">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="0.29" ytl="1116.86" xbr="332.89" ybr="1728.89">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Truck" occluded="0" source="auto" z_order="0" xtl="420.44" ytl="893.70" xbr="462.41" ybr="942.65">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="0.00" ytl="1051.41" xbr="296.74" ybr="1521.39">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+  </image>
+  <image id="23" name="adasind_117210.jpg" width="1080" height="1920">
+    <box label="Truck" occluded="0" source="auto" z_order="0" xtl="416.67" ytl="882.29" xbr="537.05" ybr="1000.90">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="34.74" ytl="959.45" xbr="60.44" ybr="1039.17">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Car" occluded="0" source="auto" z_order="0" xtl="313.82" ytl="937.89" xbr="368.04" ybr="994.58">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="0.03" ytl="954.13" xbr="26.09" ybr="1080.28">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="629.53" ytl="930.94" xbr="648.74" ybr="990.39">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="98.47" ytl="960.79" xbr="122.48" ybr="1013.73">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Bike" occluded="0" source="auto" z_order="0" xtl="914.65" ytl="956.78" xbr="1039.93" ybr="1027.78">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="0.00" ytl="1215.88" xbr="233.67" ybr="1531.28">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Car" occluded="0" source="auto" z_order="0" xtl="211.84" ytl="935.12" xbr="289.44" ybr="1010.72">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Bike" occluded="0" source="auto" z_order="0" xtl="828.34" ytl="950.53" xbr="912.78" ybr="1018.03">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="140.19" ytl="947.78" xbr="160.82" ybr="998.11">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Truck" occluded="0" source="auto" z_order="0" xtl="211.83" ytl="935.14" xbr="289.48" ybr="1010.68">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Truck" occluded="0" source="auto" z_order="0" xtl="1039.15" ytl="892.23" xbr="1079.78" ybr="1045.86">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Bike" occluded="0" source="auto" z_order="0" xtl="578.18" ytl="948.25" xbr="631.15" ybr="996.96">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="63.06" ytl="964.02" xbr="72.83" ybr="1003.01">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Car" occluded="0" source="auto" z_order="0" xtl="653.35" ytl="924.21" xbr="747.12" ybr="987.83">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Car" occluded="0" source="auto" z_order="0" xtl="370.13" ytl="936.32" xbr="410.95" ybr="974.08">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="21.71" ytl="960.54" xbr="40.54" ybr="1035.79">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Bike" occluded="0" source="auto" z_order="0" xtl="716.36" ytl="949.66" xbr="822.02" ybr="1013.86">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Bike" occluded="0" source="auto" z_order="0" xtl="607.29" ytl="948.29" xbr="631.70" ybr="997.70">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Truck" occluded="0" source="auto" z_order="0" xtl="365.82" ytl="919.77" xbr="410.87" ybr="973.53">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="86.39" ytl="962.17" xbr="99.06" ybr="1001.41">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Bike" occluded="0" source="auto" z_order="0" xtl="892.63" ytl="956.51" xbr="964.59" ybr="1021.48">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Car" occluded="0" source="auto" z_order="0" xtl="533.84" ytl="936.02" xbr="561.85" ybr="978.13">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+  </image>
+  <image id="24" name="adasind_123090.jpg" width="1080" height="1920">
+    <box label="Car" occluded="0" source="auto" z_order="0" xtl="392.10" ytl="939.42" xbr="594.05" ybr="1093.48">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Truck" occluded="0" source="auto" z_order="0" xtl="0.15" ytl="943.70" xbr="96.93" ybr="1050.30">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="183.00" ytl="952.81" xbr="249.67" ybr="1064.79">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Bike" occluded="0" source="auto" z_order="0" xtl="189.40" ytl="1006.93" xbr="249.24" ybr="1092.99">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="0.00" ytl="1227.73" xbr="137.87" ybr="1550.93">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="183.90" ytl="952.73" xbr="246.38" ybr="1036.28">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+  </image>
+  <image id="25" name="adasind_128310.jpg" width="1080" height="1920">
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="7.19" ytl="888.39" xbr="102.88" ybr="1097.46">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Car" occluded="0" source="auto" z_order="0" xtl="341.48" ytl="938.65" xbr="400.28" ybr="1001.19">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Truck" occluded="0" source="auto" z_order="0" xtl="194.95" ytl="886.17" xbr="290.18" ybr="980.27">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Truck" occluded="0" source="auto" z_order="0" xtl="703.83" ytl="877.72" xbr="878.30" ybr="1073.62">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="0.00" ytl="1111.55" xbr="231.14" ybr="1715.98">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Car" occluded="0" source="auto" z_order="0" xtl="422.20" ytl="925.90" xbr="475.86" ybr="990.37">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+  </image>
+  <image id="26" name="adasind_140160.jpg" width="1080" height="1920">
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="990.05" ytl="814.78" xbr="1080.00" ybr="1032.01">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Bike" occluded="0" source="auto" z_order="0" xtl="944.61" ytl="928.69" xbr="1080.00" ybr="1056.54">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Car" occluded="0" source="auto" z_order="0" xtl="335.38" ytl="837.63" xbr="396.90" ybr="902.99">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Truck" occluded="0" source="auto" z_order="0" xtl="230.69" ytl="824.89" xbr="277.42" ybr="878.95">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Truck" occluded="0" source="auto" z_order="0" xtl="334.90" ytl="837.71" xbr="397.71" ybr="903.26">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Bus" occluded="0" source="auto" z_order="0" xtl="226.66" ytl="824.61" xbr="277.43" ybr="878.53">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+  </image>
+  <image id="27" name="adasind_145860.jpg" width="1080" height="1920">
+    <box label="Truck" occluded="0" source="auto" z_order="0" xtl="397.69" ytl="801.12" xbr="483.32" ybr="909.30">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Car" occluded="0" source="auto" z_order="0" xtl="43.10" ytl="862.53" xbr="151.53" ybr="945.35">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="0.00" ytl="1040.12" xbr="204.84" ybr="1662.81">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Truck" occluded="0" source="auto" z_order="0" xtl="238.79" ytl="855.78" xbr="283.48" ybr="911.33">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+  </image>
+  <image id="28" name="adasind_152940.jpg" width="1080" height="1920">
+    <box label="Bike" occluded="0" source="auto" z_order="0" xtl="862.54" ytl="897.02" xbr="1080.00" ybr="1129.26">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Bike" occluded="0" source="auto" z_order="0" xtl="579.01" ytl="846.33" xbr="665.82" ybr="925.25">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="933.77" ytl="766.66" xbr="1079.02" ybr="1069.22">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="867.78" ytl="770.61" xbr="956.72" ybr="1013.57">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="0.00" ytl="1070.48" xbr="135.56" ybr="1669.19">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="251.45" ytl="817.57" xbr="268.82" ybr="851.94">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Bike" occluded="0" source="auto" z_order="0" xtl="430.31" ytl="834.83" xbr="492.07" ybr="915.94">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="431.77" ytl="799.69" xbr="490.23" ybr="891.38">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Car" occluded="0" source="auto" z_order="0" xtl="327.51" ytl="809.70" xbr="390.70" ybr="863.06">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Truck" occluded="0" source="auto" z_order="0" xtl="143.26" ytl="791.82" xbr="193.20" ybr="858.94">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Truck" occluded="0" source="auto" z_order="0" xtl="188.67" ytl="814.03" xbr="215.61" ybr="848.56">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+  </image>
+  <image id="29" name="adasind_167700.jpg" width="1080" height="1920">
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="351.38" ytl="877.80" xbr="485.03" ybr="1209.77">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="910.42" ytl="727.20" xbr="1080.00" ybr="1412.42">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="263.96" ytl="927.05" xbr="330.22" ybr="1101.62">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Car" occluded="0" source="auto" z_order="0" xtl="578.23" ytl="877.57" xbr="701.11" ybr="993.54">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Bike" occluded="0" source="auto" z_order="0" xtl="313.16" ytl="1011.57" xbr="352.20" ybr="1111.59">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Bike" occluded="0" source="auto" z_order="0" xtl="426.85" ytl="972.82" xbr="601.20" ybr="1186.29">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Bike" occluded="0" source="auto" z_order="0" xtl="754.94" ytl="1078.72" xbr="954.32" ybr="1289.26">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Truck" occluded="0" source="auto" z_order="0" xtl="23.15" ytl="920.79" xbr="267.20" ybr="1178.18">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Truck" occluded="0" source="auto" z_order="0" xtl="551.72" ytl="870.80" xbr="597.27" ybr="937.26">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+  </image>
+  <image id="30" name="adasind_184050.jpg" width="1080" height="1920">
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="738.73" ytl="704.08" xbr="848.74" ybr="975.30">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Car" occluded="0" source="auto" z_order="0" xtl="173.82" ytl="759.63" xbr="239.26" ybr="822.84">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Truck" occluded="0" source="auto" z_order="0" xtl="173.24" ytl="758.48" xbr="239.33" ybr="822.70">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+  </image>
+  <image id="31" name="adasind_199770.jpg" width="1080" height="1920">
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="617.46" ytl="832.33" xbr="701.79" ybr="1021.77">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="954.86" ytl="1281.85" xbr="1080.00" ybr="1557.73">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Bike" occluded="0" source="auto" z_order="0" xtl="534.68" ytl="886.69" xbr="651.87" ybr="999.89">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="0.00" ytl="987.49" xbr="140.23" ybr="1576.73">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Bike" occluded="0" source="auto" z_order="0" xtl="76.59" ytl="831.76" xbr="146.56" ybr="903.67">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Car" occluded="0" source="auto" z_order="0" xtl="223.02" ytl="813.76" xbr="274.39" ybr="860.86">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Truck" occluded="0" source="auto" z_order="0" xtl="925.40" ytl="817.45" xbr="1080.00" ybr="1306.61">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Car" occluded="0" source="auto" z_order="0" xtl="0.00" ytl="783.15" xbr="81.66" ybr="935.07">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="351.79" ytl="830.24" xbr="367.17" ybr="886.05">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="847.94" ytl="851.36" xbr="899.23" ybr="947.54">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="204.09" ytl="828.05" xbr="215.61" ybr="858.02">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="676.06" ytl="835.42" xbr="705.72" ybr="914.68">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Car" occluded="0" source="auto" z_order="0" xtl="372.75" ytl="808.90" xbr="530.13" ybr="947.07">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="752.26" ytl="849.67" xbr="775.88" ybr="923.29">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+  </image>
+  <image id="32" name="adasind_212280.jpg" width="1080" height="1920">
+    <box label="Bike" occluded="0" source="auto" z_order="0" xtl="304.47" ytl="912.77" xbr="368.91" ybr="1045.60">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Bike" occluded="0" source="auto" z_order="0" xtl="464.17" ytl="917.84" xbr="611.37" ybr="1058.66">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="298.65" ytl="847.33" xbr="349.19" ybr="1003.77">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="0.00" ytl="1081.29" xbr="185.69" ybr="1692.16">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Truck" occluded="0" source="auto" z_order="0" xtl="0.00" ytl="766.30" xbr="136.22" ybr="1101.87">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Car" occluded="0" source="auto" z_order="0" xtl="0.00" ytl="764.28" xbr="136.37" ybr="1101.31">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Car" occluded="0" source="auto" z_order="0" xtl="160.02" ytl="884.94" xbr="179.92" ybr="913.13">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Car" occluded="0" source="auto" z_order="0" xtl="0.00" ytl="1078.86" xbr="104.68" ybr="1351.97">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+  </image>
+  <image id="33" name="adasind_212700.jpg" width="1080" height="1920">
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="0.47" ytl="874.22" xbr="61.39" ybr="1063.29">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="942.42" ytl="832.79" xbr="1080.00" ybr="1151.52">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Bike" occluded="0" source="auto" z_order="0" xtl="0.08" ytl="993.15" xbr="48.62" ybr="1100.13">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Car" occluded="0" source="auto" z_order="0" xtl="215.31" ytl="637.74" xbr="1080.00" ybr="1595.06">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Car" occluded="0" source="auto" z_order="0" xtl="134.31" ytl="560.18" xbr="1075.76" ybr="1413.16">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="0.00" ytl="1151.89" xbr="145.23" ybr="1621.21">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Car" occluded="0" source="auto" z_order="0" xtl="24.23" ytl="164.43" xbr="1046.11" ybr="1008.72">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Truck" occluded="0" source="auto" z_order="0" xtl="35.77" ytl="910.71" xbr="87.31" ybr="1009.55">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Car" occluded="0" source="auto" z_order="0" xtl="36.83" ytl="910.10" xbr="86.97" ybr="1009.72">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+  </image>
+  <image id="34" name="adasind_223530.jpg" width="1080" height="1920">
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="824.25" ytl="691.65" xbr="913.80" ybr="783.16">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Truck" occluded="0" source="auto" z_order="0" xtl="447.59" ytl="529.46" xbr="1078.99" ybr="1165.69">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="52.05" ytl="743.50" xbr="66.13" ybr="770.08">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Truck" occluded="0" source="auto" z_order="0" xtl="0.15" ytl="735.41" xbr="33.25" ybr="802.72">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="106.12" ytl="738.45" xbr="121.31" ybr="766.12">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+  </image>
+  <image id="35" name="adasind_230910.jpg" width="1080" height="1920">
+    <box label="Bike" occluded="0" source="auto" z_order="0" xtl="950.95" ytl="939.69" xbr="1079.92" ybr="1117.51">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="0.00" ytl="1125.72" xbr="243.28" ybr="1699.74">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Car" occluded="0" source="auto" z_order="0" xtl="300.29" ytl="922.57" xbr="349.30" ybr="971.02">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="973.56" ytl="830.27" xbr="1012.87" ybr="947.34">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="397.78" ytl="903.14" xbr="420.20" ybr="979.85">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Truck" occluded="0" source="auto" z_order="0" xtl="0.00" ytl="876.49" xbr="93.29" ybr="1069.04">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="354.20" ytl="906.57" xbr="383.74" ybr="988.63">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Truck" occluded="0" source="auto" z_order="0" xtl="118.44" ytl="912.74" xbr="210.55" ybr="1024.79">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Truck" occluded="0" source="auto" z_order="0" xtl="210.07" ytl="898.39" xbr="285.53" ybr="992.79">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="787.02" ytl="852.57" xbr="815.92" ybr="915.79">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+  </image>
+  <image id="36" name="adasind_236370.jpg" width="1080" height="1920">
+    <box label="Bike" occluded="0" source="auto" z_order="0" xtl="594.50" ytl="833.72" xbr="882.65" ybr="1027.75">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="665.59" ytl="727.11" xbr="778.89" ybr="1008.25">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Truck" occluded="0" source="auto" z_order="0" xtl="403.81" ytl="653.32" xbr="770.63" ybr="924.21">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="845.14" ytl="762.58" xbr="912.98" ybr="1021.10">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="64.63" ytl="731.67" xbr="89.36" ybr="795.99">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Car" occluded="0" source="auto" z_order="0" xtl="0.00" ytl="728.34" xbr="56.59" ybr="786.66">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="294.23" ytl="733.66" xbr="324.90" ybr="844.32">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Bike" occluded="0" source="auto" z_order="0" xtl="891.46" ytl="870.45" xbr="1018.02" ybr="1018.87">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="0.11" ytl="1283.52" xbr="106.82" ybr="1535.56">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+  </image>
+  <image id="37" name="adasind_249480.jpg" width="1080" height="1920">
+    <box label="Bike" occluded="0" source="auto" z_order="0" xtl="608.00" ytl="783.74" xbr="825.58" ybr="998.31">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="663.81" ytl="717.13" xbr="766.56" ybr="945.71">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Car" occluded="0" source="auto" z_order="0" xtl="0.58" ytl="762.78" xbr="71.08" ybr="794.14">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="0.00" ytl="975.43" xbr="162.55" ybr="1642.41">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Car" occluded="0" source="auto" z_order="0" xtl="72.55" ytl="755.89" xbr="105.74" ybr="779.65">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="623.07" ytl="718.50" xbr="681.96" ybr="894.65">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Truck" occluded="0" source="auto" z_order="0" xtl="162.68" ytl="714.60" xbr="241.93" ybr="809.70">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="161.86" ytl="679.40" xbr="228.89" ybr="745.99">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Car" occluded="0" source="auto" z_order="0" xtl="119.70" ytl="753.80" xbr="135.57" ybr="773.21">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+  </image>
+  <image id="38" name="adasind_254250.jpg" width="1080" height="1920">
+    <box label="Car" occluded="0" source="auto" z_order="0" xtl="283.70" ytl="784.51" xbr="348.52" ybr="844.23">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Car" occluded="0" source="auto" z_order="0" xtl="0.28" ytl="812.42" xbr="58.04" ybr="888.06">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Car" occluded="0" source="auto" z_order="0" xtl="342.60" ytl="769.51" xbr="438.48" ybr="868.18">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="479.11" ytl="794.80" xbr="505.00" ybr="874.85">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Car" occluded="0" source="auto" z_order="0" xtl="251.62" ytl="790.23" xbr="298.22" ybr="831.47">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="528.84" ytl="765.75" xbr="554.73" ybr="867.14">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="0.00" ytl="1027.77" xbr="184.00" ybr="1641.04">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Car" occluded="0" source="auto" z_order="0" xtl="152.87" ytl="799.84" xbr="177.56" ybr="861.88">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Car" occluded="0" source="auto" z_order="0" xtl="60.75" ytl="770.03" xbr="163.94" ybr="905.11">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="419.15" ytl="778.76" xbr="471.31" ybr="879.33">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Car" occluded="0" source="auto" z_order="0" xtl="34.15" ytl="806.16" xbr="65.96" ybr="855.71">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Bike" occluded="0" source="auto" z_order="0" xtl="195.26" ytl="808.06" xbr="211.40" ybr="829.22">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Car" occluded="0" source="auto" z_order="0" xtl="211.88" ytl="793.68" xbr="236.98" ybr="819.87">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Truck" occluded="0" source="auto" z_order="0" xtl="60.58" ytl="769.80" xbr="164.10" ybr="904.47">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+  </image>
+  <image id="39" name="adasind_258420.jpg" width="1080" height="1920">
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="0.00" ytl="1008.83" xbr="206.79" ybr="1657.13">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="70.39" ytl="800.51" xbr="96.14" ybr="866.84">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Bike" occluded="0" source="auto" z_order="0" xtl="126.10" ytl="825.79" xbr="152.44" ybr="867.02">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Truck" occluded="0" source="auto" z_order="0" xtl="8.09" ytl="797.96" xbr="68.75" ybr="874.04">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="128.35" ytl="797.40" xbr="157.06" ybr="852.37">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Car" occluded="0" source="auto" z_order="0" xtl="214.65" ytl="773.75" xbr="275.25" ybr="814.13">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="235.06" ytl="792.91" xbr="257.45" ybr="843.75">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Truck" occluded="0" source="auto" z_order="0" xtl="285.24" ytl="761.86" xbr="454.76" ybr="945.59">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Bike" occluded="0" source="auto" z_order="0" xtl="197.16" ytl="826.21" xbr="247.45" ybr="908.60">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="190.12" ytl="791.50" xbr="241.99" ybr="883.16">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Car" occluded="0" source="auto" z_order="0" xtl="609.80" ytl="777.70" xbr="836.93" ybr="974.83">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="91.33" ytl="794.03" xbr="109.79" ybr="843.56">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+  </image>
+  <image id="40" name="adasind_261480.jpg" width="1080" height="1920">
+    <box label="Car" occluded="0" source="auto" z_order="0" xtl="508.05" ytl="689.96" xbr="837.53" ybr="902.16">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="764.58" ytl="593.60" xbr="1080.00" ybr="1278.76">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Car" occluded="0" source="auto" z_order="0" xtl="126.22" ytl="745.86" xbr="268.79" ybr="881.29">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="0.00" ytl="1382.86" xbr="305.27" ybr="1774.10">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="0.73" ytl="754.65" xbr="61.11" ybr="872.85">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Car" occluded="0" source="auto" z_order="0" xtl="94.92" ytl="764.18" xbr="136.22" ybr="842.55">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Bike" occluded="0" source="auto" z_order="0" xtl="1.56" ytl="830.33" xbr="65.35" ybr="928.66">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Car" occluded="0" source="auto" z_order="0" xtl="72.32" ytl="778.45" xbr="98.21" ybr="825.05">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Bike" occluded="0" source="auto" z_order="0" xtl="652.08" ytl="879.70" xbr="1080.00" ybr="1357.76">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Car" occluded="0" source="auto" z_order="0" xtl="251.91" ytl="745.78" xbr="335.86" ybr="855.73">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Bike" occluded="0" source="auto" z_order="0" xtl="41.57" ytl="807.62" xbr="69.46" ybr="867.85">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Truck" occluded="0" source="auto" z_order="0" xtl="252.41" ytl="745.86" xbr="336.07" ybr="854.94">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Bike" occluded="0" source="auto" z_order="0" xtl="645.71" ytl="838.25" xbr="1080.00" ybr="1220.16">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+  </image>
+  <image id="41" name="adasind_265065.jpg" width="1080" height="1920">
+    <box label="Truck" occluded="0" source="auto" z_order="0" xtl="181.33" ytl="721.14" xbr="282.53" ybr="849.88">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="837.56" ytl="772.16" xbr="898.77" ybr="908.83">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="780.75" ytl="751.90" xbr="821.56" ybr="866.89">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Bike" occluded="0" source="auto" z_order="0" xtl="296.83" ytl="807.71" xbr="399.28" ybr="872.50">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="745.51" ytl="761.74" xbr="771.38" ybr="848.60">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="145.31" ytl="761.03" xbr="164.15" ybr="826.76">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="280.33" ytl="763.60" xbr="299.94" ybr="799.10">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Bike" occluded="0" source="auto" z_order="0" xtl="157.85" ytl="773.80" xbr="191.54" ybr="830.68">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Bike" occluded="0" source="auto" z_order="0" xtl="157.74" ytl="788.19" xbr="188.51" ybr="830.61">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+  </image>
+  <image id="42" name="adasind_270517.jpg" width="1080" height="1920">
+    <box label="Car" occluded="0" source="auto" z_order="0" xtl="41.77" ytl="766.10" xbr="121.21" ybr="840.28">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Bike" occluded="0" source="auto" z_order="0" xtl="1024.26" ytl="962.13" xbr="1080.00" ybr="1173.98">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Car" occluded="0" source="auto" z_order="0" xtl="272.21" ytl="754.95" xbr="351.87" ybr="829.28">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="329.85" ytl="747.59" xbr="408.88" ybr="906.36">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="673.20" ytl="761.23" xbr="790.01" ybr="858.57">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Car" occluded="0" source="auto" z_order="0" xtl="169.99" ytl="735.68" xbr="269.14" ybr="883.32">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Car" occluded="0" source="auto" z_order="0" xtl="449.66" ytl="716.00" xbr="822.18" ybr="1021.37">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Bike" occluded="0" source="auto" z_order="0" xtl="810.96" ytl="847.07" xbr="878.08" ybr="914.03">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Truck" occluded="0" source="auto" z_order="0" xtl="169.59" ytl="735.26" xbr="269.34" ybr="883.16">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="672.78" ytl="760.93" xbr="793.15" ybr="949.65">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="652.61" ytl="761.68" xbr="681.42" ybr="840.25">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+  </image>
+  <image id="43" name="adasind_271039.jpg" width="1080" height="1920">
+    <box label="Car" occluded="0" source="auto" z_order="0" xtl="443.32" ytl="818.40" xbr="814.82" ybr="1018.73">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="315.19" ytl="811.28" xbr="360.11" ybr="936.96">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="280.25" ytl="815.20" xbr="312.66" ybr="933.36">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="989.90" ytl="837.85" xbr="1028.73" ybr="969.18">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="222.46" ytl="823.96" xbr="250.33" ybr="906.30">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Car" occluded="0" source="auto" z_order="0" xtl="26.44" ytl="816.47" xbr="97.99" ybr="906.57">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="392.19" ytl="820.73" xbr="438.92" ybr="934.15">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="392.59" ytl="823.89" xbr="415.04" ybr="900.33">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Car" occluded="0" source="auto" z_order="0" xtl="1.65" ytl="830.81" xbr="33.24" ybr="885.51">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="432.72" ytl="814.71" xbr="463.11" ybr="891.64">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Car" occluded="0" source="auto" z_order="0" xtl="191.71" ytl="827.06" xbr="313.95" ybr="894.08">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Car" occluded="0" source="auto" z_order="0" xtl="106.10" ytl="825.41" xbr="159.57" ybr="870.99">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+  </image>
+  <image id="44" name="adasind_284016.jpg" width="1080" height="1920">
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="315.24" ytl="796.75" xbr="392.71" ybr="933.28">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="0.00" ytl="1050.98" xbr="189.88" ybr="1681.55">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Car" occluded="0" source="auto" z_order="0" xtl="0.00" ytl="730.26" xbr="126.35" ybr="1173.56">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Bike" occluded="0" source="auto" z_order="0" xtl="329.38" ytl="862.03" xbr="378.63" ybr="980.76">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Bike" occluded="0" source="auto" z_order="0" xtl="317.27" ytl="862.91" xbr="389.87" ybr="981.34">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+  </image>
+  <image id="45" name="adasind_295948.jpg" width="1080" height="1920">
+    <box label="Truck" occluded="0" source="auto" z_order="0" xtl="317.55" ytl="855.31" xbr="432.37" ybr="1005.04">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Truck" occluded="0" source="auto" z_order="0" xtl="460.61" ytl="887.67" xbr="656.45" ybr="1065.71">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="156.21" ytl="938.68" xbr="188.63" ybr="1021.53">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Car" occluded="0" source="auto" z_order="0" xtl="452.20" ytl="936.69" xbr="464.48" ybr="961.92">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="6.56" ytl="899.69" xbr="64.34" ybr="984.16">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="110.71" ytl="922.56" xbr="142.59" ybr="1020.51">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Car" occluded="0" source="auto" z_order="0" xtl="422.30" ytl="917.24" xbr="439.81" ybr="965.35">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="0.00" ytl="951.63" xbr="100.94" ybr="1037.10">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Car" occluded="0" source="auto" z_order="0" xtl="46.47" ytl="925.39" xbr="139.85" ybr="1071.46">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="0.00" ytl="1200.00" xbr="231.93" ybr="1711.59">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+  </image>
+  <image id="46" name="adasind_310008.jpg" width="1080" height="1920">
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="114.06" ytl="864.62" xbr="155.62" ybr="992.84">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="31.62" ytl="875.77" xbr="82.34" ybr="1033.96">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="73.03" ytl="873.92" xbr="108.84" ybr="997.94">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="16.73" ytl="867.28" xbr="49.76" ybr="1035.74">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="0.00" ytl="1077.13" xbr="239.08" ybr="1657.61">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Truck" occluded="0" source="auto" z_order="0" xtl="253.63" ytl="827.50" xbr="364.66" ybr="971.24">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Bus" occluded="0" source="auto" z_order="0" xtl="253.55" ytl="827.65" xbr="364.65" ybr="970.95">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+  </image>
+  <image id="47" name="adasind_319432.jpg" width="1080" height="1920">
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="638.78" ytl="889.11" xbr="737.10" ybr="1175.79">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="497.78" ytl="903.24" xbr="587.28" ybr="1164.74">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="47.07" ytl="902.82" xbr="93.03" ybr="1093.05">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="304.51" ytl="935.70" xbr="335.41" ybr="1006.85">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="206.46" ytl="908.31" xbr="298.87" ybr="1073.02">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Pedestrian" occluded="0" source="auto" z_order="0" xtl="0.00" ytl="1120.11" xbr="239.24" ybr="1708.76">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Car" occluded="0" source="auto" z_order="0" xtl="324.44" ytl="919.73" xbr="389.28" ybr="998.26">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Bike" occluded="0" source="auto" z_order="0" xtl="208.20" ytl="983.67" xbr="287.52" ybr="1085.72">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Car" occluded="0" source="auto" z_order="0" xtl="388.37" ytl="918.01" xbr="494.87" ybr="1036.79">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Truck" occluded="0" source="auto" z_order="0" xtl="580.22" ytl="889.02" xbr="855.20" ybr="1172.15">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Car" occluded="0" source="auto" z_order="0" xtl="472.56" ytl="902.51" xbr="617.21" ybr="1066.69">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Car" occluded="0" source="auto" z_order="0" xtl="885.94" ytl="889.27" xbr="1079.61" ybr="1204.88">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+    <box label="Car" occluded="0" source="auto" z_order="0" xtl="80.90" ytl="929.14" xbr="126.35" ybr="1021.37">
+      <attribute name="occluded">false</attribute>
+      <attribute name="truncated">false</attribute>
+      <attribute name="edge_zone">false</attribute>
+    </box>
+  </image>
+</annotations>

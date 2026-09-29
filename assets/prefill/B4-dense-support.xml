@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+<annotations>
+ <version>1.1</version>
+ <image id="0" name="adasind_258420.jpg" width="1080" height="1920">
+  <box label="ThreeWheeler" occluded="0" source="file" xtl="4.00" ytl="796.00" xbr="68.00" ybr="870.00" z_order="0">
+   <attribute name="occluded">false</attribute>
+   <attribute name="truncated">false</attribute>
+   <attribute name="edge_zone">true</attribute>
+  </box>
+  <box label="ThreeWheeler" occluded="0" source="file" xtl="289.00" ytl="759.00" xbr="448.00" ybr="947.00" z_order="0">
+   <attribute name="occluded">false</attribute>
+   <attribute name="truncated">false</attribute>
+   <attribute name="edge_zone">false</attribute>
+  </box>
+  <box label="Car" occluded="0" source="file" xtl="219.00" ytl="782.00" xbr="257.00" ybr="824.00" z_order="0">
+   <attribute name="occluded">false</attribute>
+   <attribute name="truncated">false</attribute>
+   <attribute name="edge_zone">false</attribute>
+  </box>
+  <box label="Pedestrian" occluded="0" source="file" xtl="71.00" ytl="801.00" xbr="95.00" ybr="864.00" z_order="0">
+   <attribute name="occluded">false</attribute>
+   <attribute name="truncated">false</attribute>
+   <attribute name="edge_zone">true</attribute>
+  </box>
+  <polygon label="ignore_region" occluded="0" source="file" points="0.00,1038.60;0.00,0.00;1080.00,0.00;1080.00,1038.60;1080.00,967.66;1080.00,897.27;1080.00,827.95;1080.00,760.23;1080.00,694.63;1080.00,631.65;1080.00,571.77;1080.00,515.44;1080.00,463.09;1054.56,415.12;998.23,371.89;938.35,333.74;875.37,300.96;809.77,273.78;742.05,252.43;672.73,237.06;602.34,227.80;531.40,224.70;460.46,227.80;390.07,237.06;320.75,252.43;253.03,273.78;187.43,300.96;124.45,333.74;64.57,371.89;8.24,415.12;0.00,463.09;0.00,515.44;0.00,571.77;0.00,631.65;0.00,694.63;0.00,760.23;0.00,827.95;0.00,897.27;0.00,967.66;0.00,1038.60" z_order="0">
+   <attribute name="reason">lens_border</attribute>
+  </polygon>
+  <polygon label="ignore_region" occluded="0" source="file" points="1080.00,1038.60;1080.00,1920.00;0.00,1920.00;0.00,1038.60;0.00,1109.54;0.00,1179.93;0.00,1249.25;0.00,1316.97;0.00,1382.57;0.00,1445.55;0.00,1505.43;0.00,1561.76;0.00,1614.11;8.24,1662.08;64.57,1705.31;124.45,1743.46;187.43,1776.24;253.03,1803.42;320.75,1824.77;390.07,1840.14;460.46,1849.40;531.40,1852.50;602.34,1849.40;672.73,1840.14;742.05,1824.77;809.77,1803.42;875.37,1776.24;938.35,1743.46;998.23,1705.31;1054.56,1662.08;1080.00,1614.11;1080.00,1561.76;1080.00,1505.43;1080.00,1445.55;1080.00,1382.57;1080.00,1316.97;1080.00,1249.25;1080.00,1179.93;1080.00,1109.54;1080.00,1038.60" z_order="0">
+   <attribute name="reason">lens_border</attribute>
+  </polygon>
+ </image>
+ <image id="1" name="adasind_270517.jpg" width="1080" height="1920">
+  <box label="ThreeWheeler" occluded="0" source="file" xtl="442.00" ytl="711.00" xbr="840.00" ybr="1030.00" z_order="0">
+   <attribute name="occluded">false</attribute>
+   <attribute name="truncated">false</attribute>
+   <attribute name="edge_zone">false</attribute>
+  </box>
+  <box label="Bike" occluded="0" source="file" xtl="995.00" ytl="948.00" xbr="1079.00" ybr="1180.00" z_order="0">
+   <attribute name="occluded">false</attribute>
+   <attribute name="truncated">true</attribute>
+   <attribute name="edge_zone">true</attribute>
+  </box>
+  <box label="Car" occluded="0" source="file" xtl="277.00" ytl="754.00" xbr="337.00" ybr="827.00" z_order="0">
+   <attribute name="occluded">false</attribute>
+   <attribute name="truncated">false</attribute>
+   <attribute name="edge_zone">false</attribute>
+  </box>
+  <box label="Car" occluded="0" source="file" xtl="43.00" ytl="765.00" xbr="119.00" ybr="837.00" z_order="0">
+   <attribute name="occluded">false</attribute>
+   <attribute name="truncated">false</attribute>
+   <attribute name="edge_zone">false</attribute>
+  </box>
+  <polygon label="ignore_region" occluded="0" source="file" points="0.00,986.60;0.00,0.00;1080.00,0.00;1080.00,986.60;1080.00,915.88;1080.00,845.70;1080.00,776.59;1080.00,709.08;1080.00,643.69;1080.00,580.90;1080.00,521.20;1038.47,465.04;990.65,412.85;938.46,365.03;882.30,321.94;822.60,283.91;759.81,251.22;694.42,224.13;626.91,202.85;557.80,187.53;487.62,178.29;416.90,175.20;346.18,178.29;276.00,187.53;206.89,202.85;139.38,224.13;73.99,251.22;11.20,283.91;0.00,321.94;0.00,365.03;0.00,412.85;0.00,465.04;0.00,521.20;0.00,580.90;0.00,643.69;0.00,709.08;0.00,776.59;0.00,845.70;0.00,915.88;0.00,986.60" z_order="0">
+   <attribute name="reason">lens_border</attribute>
+  </polygon>
+  <polygon label="ignore_region" occluded="0" source="file" points="1080.00,986.60;1080.00,1920.00;0.00,1920.00;0.00,986.60;0.00,986.60;0.00,1057.32;0.00,1127.50;0.00,1196.61;0.00,1264.12;0.00,1329.51;0.00,1392.30;0.00,1452.00;0.00,1508.16;0.00,1560.35;0.00,1608.17;0.00,1651.26;11.20,1689.29;73.99,1721.98;139.38,1749.07;206.89,1770.35;276.00,1785.67;346.18,1794.91;416.90,1798.00;487.62,1794.91;557.80,1785.67;626.91,1770.35;694.42,1749.07;759.81,1721.98;822.60,1689.29;882.30,1651.26;938.46,1608.17;990.65,1560.35;1038.47,1508.16;1080.00,1452.00;1080.00,1392.30;1080.00,1329.51;1080.00,1264.12;1080.00,1196.61;1080.00,1127.50;1080.00,1057.32;1080.00,986.60" z_order="0">
+   <attribute name="reason">lens_border</attribute>
+  </polygon>
+ </image>
+ <image id="2" name="adasind_310008.jpg" width="1080" height="1920">
+  <polygon label="ignore_region" occluded="0" source="file" points="0.00,1021.50;0.00,0.00;1080.00,0.00;1080.00,1021.50;1080.00,950.63;1080.00,880.31;1080.00,811.05;1080.00,743.40;1080.00,677.87;1080.00,614.95;1080.00,555.12;1080.00,498.85;1080.00,446.55;1080.00,398.63;1080.00,355.45;1036.55,317.33;973.63,284.58;908.10,257.44;840.45,236.11;771.19,220.75;700.87,211.49;630.00,208.40;559.13,211.49;488.81,220.75;419.55,236.11;351.90,257.44;286.37,284.58;223.45,317.33;163.62,355.45;107.35,398.63;55.05,446.55;7.13,498.85;0.00,555.12;0.00,614.95;0.00,677.87;0.00,743.40;0.00,811.05;0.00,880.31;0.00,950.63;0.00,1021.50" z_order="0">
+   <attribute name="reason">lens_border</attribute>
+  </polygon>
+  <polygon label="ignore_region" occluded="0" source="file" points="1080.00,1021.50;1080.00,1920.00;0.00,1920.00;0.00,1021.50;0.00,1021.50;0.00,1092.37;0.00,1162.69;0.00,1231.95;0.00,1299.60;0.00,1365.13;0.00,1428.05;0.00,1487.88;7.13,1544.15;55.05,1596.45;107.35,1644.37;163.62,1687.55;223.45,1725.67;286.37,1758.42;351.90,1785.56;419.55,1806.89;488.81,1822.25;559.13,1831.51;630.00,1834.60;700.87,1831.51;771.19,1822.25;840.45,1806.89;908.10,1785.56;973.63,1758.42;1036.55,1725.67;1080.00,1687.55;1080.00,1644.37;1080.00,1596.45;1080.00,1544.15;1080.00,1487.88;1080.00,1428.05;1080.00,1365.13;1080.00,1299.60;1080.00,1231.95;1080.00,1162.69;1080.00,1092.37;1080.00,1021.50" z_order="0">
+   <attribute name="reason">lens_border</attribute>
+  </polygon>
+ </image>
+</annotations>

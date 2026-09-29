@@ -1,0 +1,26 @@
+NGUỒN VÀ GIẤY PHÉP
+
+Tên: ADASIND — Om Singh, Anupam Biswas, Rajdeep Paul (NIT Silchar)
+Giấy phép: CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/legalcode
+DOI (phiên bản 1.0.0): 10.5281/zenodo.7900965
+DOI (concept, mọi phiên bản): 10.5281/zenodo.7851541
+Trang chủ: https://zenodo.org/records/7900965
+
+Đã sửa gì so với bản gốc:
+- Chọn tập con 48 frame từ bộ dữ liệu gốc.
+- Đổi định dạng CSV sang CVAT XML 1.1, ánh xạ lại nhãn theo bảng 6 class của lab (docs/05-taxonomy-vi.md).
+- Sửa tay box pre-label thành "teaching reference" (bản nháp dùng để dạy, không phải gold set); thêm polygon
+  ignore_region (ego_body, lens_border, và các vùng không đọc được).
+- Làm mờ (blur) khuôn mặt và biển số xe trước khi đưa frame vào repo.
+- Thêm pre-label YOLO26m (Ultralytics, giấy phép AGPL-3.0) — chỉ là output đóng băng (model-yolo26m.xml), không có
+  trọng số .pt nào trong repo.
+
+Trích dẫn: Singh O., Biswas A., Paul R., ADASIND dataset, Zenodo, 2023, doi:10.5281/zenodo.7900965.
+
+ẢNH BÃI ĐỖ XE (bài thực hành vạch ô đỗ)
+
+- parking-lot-core.jpg: "Parkinglot empty" — Öljylautta; tác giả công bố public domain.
+  Nguồn: https://commons.wikimedia.org/wiki/File:Parkinglot_empty.jpg
+- parking-lot-contrast.png: "Apartment Complex Parking Lot 1" — TylerMascola; CC0 1.0.
+  Nguồn: https://commons.wikimedia.org/wiki/File:Apartment_Complex_Parking_Lot_1.png
+- Hai file là ảnh xem trước 960 px từ Wikimedia Commons; không chỉnh sửa nội dung.
