@@ -1,9 +1,9 @@
 camera_id,slice_type,frames,risk,rationale
-front,normal,,TODO,TODO
-front,hard,,TODO,TODO
-rear,normal,,TODO,TODO
-rear,hard,,TODO,TODO
-left,normal,,TODO,TODO
-left,hard,,TODO,TODO
-right,normal,,TODO,TODO
-right,hard,,TODO,TODO
+front,normal,30,Bỏ sót xe máy hoặc người đi bộ nhỏ ở xa do độ phân giải thấp,Đảm bảo bao phủ trường nhìn chính diện khi xe chạy thẳng trong điều kiện chiếu sáng chuẩn
+front,hard,30,Chói sáng ngược nắng và méo barrel ở rìa FOV khi phương tiện cắt ngang đầu xe,Camera trước chịu rủi ro va chạm trực diện cao nhất; cần kiểm tra các ca ngược sáng và cắt ngang
+rear,normal,25,Bóng đổ của thân xe ego che khuất một phần vạch kẻ đường,Bao phủ tình huống lưu thông bình thường và kiểm tra tầm nhìn phía sau xe trong điều kiện ban ngày
+rear,hard,25,Điểm mù sát cản sau và vật thể thấp rơi vào vùng méo cực đại của ống kính lùi,Hỗ trợ an toàn khi lùi/đỗ; cần kiểm tra các ca chướng ngại vật thấp hoặc người đi bộ băng qua sát cản sau
+left,normal,25,Nhầm lẫn vạch kẻ đường bên trái với mép vỉa hè khi xe đi thẳng,Bao phủ không gian quan sát sườn trái phục vụ phát hiện xe chạy song song ở điều kiện thông thường
+left,hard,20,Vùng seam giáp ranh camera trước/sau gây trùng lặp box hoặc biến dạng hình học vật thể vượt trái,Kiểm tra khả năng theo dõi phương tiện vượt sát sườn xe và sai lệch biên dạng tại vùng seam
+right,normal,25,Bỏ sót chướng ngại vật tĩnh sát lề đường bên phụ,Bao phủ không gian sườn phải và mép lề đường trong hành trình bình thường
+right,hard,20,Điểm mù góc phụ bên phải kết hợp xe máy tạt đầu từ ngõ ngách ở vùng méo viền,Vùng phụ có nguy cơ cao xe hai bánh vượt phải và người đi bộ bước từ vỉa hè; cần kiểm tra méo rìa và seam
