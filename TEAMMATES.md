@@ -4,7 +4,7 @@
 
 - Khóa/lớp: K4
 - Tên nhóm: ChiBietGanNhan
-- Repo Public: https://github.com/longphu2308/K4-DAY11-ChiBietGanNhan
+- Repo Public: https://github.com/longphu2308/K4-DAY11-TranLongPhu-2A202602313
 - Máy giữ hồ sơ chính / người quản lý: Trần Long Phú
 - Slice chung lấy từ mode.json: B2-dense
 - Tên định danh vai A dùng cho --self: tho
